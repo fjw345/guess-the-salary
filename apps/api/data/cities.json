@@ -1,0 +1,4790 @@
+[
+  {
+    "id": "北京市-北京",
+    "name": "北京",
+    "province": "北京市",
+    "level": "MUNICIPALITY",
+    "aliases": ["北京市"]
+  },
+  {
+    "id": "上海市-上海",
+    "name": "上海",
+    "province": "上海市",
+    "level": "MUNICIPALITY",
+    "aliases": ["上海市"]
+  },
+  {
+    "id": "天津市-天津",
+    "name": "天津",
+    "province": "天津市",
+    "level": "MUNICIPALITY",
+    "aliases": ["天津市"]
+  },
+  {
+    "id": "重庆市-重庆",
+    "name": "重庆",
+    "province": "重庆市",
+    "level": "MUNICIPALITY",
+    "aliases": ["重庆市"]
+  },
+  {
+    "id": "安徽省-合肥",
+    "name": "合肥",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["合肥市"]
+  },
+  {
+    "id": "安徽省-宿州",
+    "name": "宿州",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["宿州市"]
+  },
+  {
+    "id": "安徽省-淮北",
+    "name": "淮北",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["淮北市"]
+  },
+  {
+    "id": "安徽省-阜阳",
+    "name": "阜阳",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["阜阳市"]
+  },
+  {
+    "id": "安徽省-蚌埠",
+    "name": "蚌埠",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["蚌埠市"]
+  },
+  {
+    "id": "安徽省-淮南",
+    "name": "淮南",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["淮南市"]
+  },
+  {
+    "id": "安徽省-滁州",
+    "name": "滁州",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["滁州市"]
+  },
+  {
+    "id": "安徽省-马鞍山",
+    "name": "马鞍山",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["马鞍山市"]
+  },
+  {
+    "id": "安徽省-芜湖",
+    "name": "芜湖",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["芜湖市"]
+  },
+  {
+    "id": "安徽省-铜陵",
+    "name": "铜陵",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["铜陵市"]
+  },
+  {
+    "id": "安徽省-安庆",
+    "name": "安庆",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["安庆市"]
+  },
+  {
+    "id": "安徽省-黄山",
+    "name": "黄山",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["黄山市"]
+  },
+  {
+    "id": "安徽省-六安",
+    "name": "六安",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["六安市"]
+  },
+  {
+    "id": "安徽省-池州",
+    "name": "池州",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["池州市"]
+  },
+  {
+    "id": "安徽省-宣城",
+    "name": "宣城",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["宣城市"]
+  },
+  {
+    "id": "安徽省-亳州",
+    "name": "亳州",
+    "province": "安徽省",
+    "level": "PREFECTURE",
+    "aliases": ["亳州市"]
+  },
+  {
+    "id": "安徽省-界首",
+    "name": "界首",
+    "province": "安徽省",
+    "level": "COUNTY",
+    "aliases": ["界首市"]
+  },
+  {
+    "id": "安徽省-明光",
+    "name": "明光",
+    "province": "安徽省",
+    "level": "COUNTY",
+    "aliases": ["明光市"]
+  },
+  {
+    "id": "安徽省-天长",
+    "name": "天长",
+    "province": "安徽省",
+    "level": "COUNTY",
+    "aliases": ["天长市"]
+  },
+  {
+    "id": "安徽省-桐城",
+    "name": "桐城",
+    "province": "安徽省",
+    "level": "COUNTY",
+    "aliases": ["桐城市"]
+  },
+  {
+    "id": "安徽省-宁国",
+    "name": "宁国",
+    "province": "安徽省",
+    "level": "COUNTY",
+    "aliases": ["宁国市"]
+  },
+  {
+    "id": "安徽省-巢湖",
+    "name": "巢湖",
+    "province": "安徽省",
+    "level": "COUNTY",
+    "aliases": ["巢湖市"]
+  },
+  {
+    "id": "福建省-福州",
+    "name": "福州",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["福州市"]
+  },
+  {
+    "id": "福建省-厦门",
+    "name": "厦门",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["厦门市"]
+  },
+  {
+    "id": "福建省-南平",
+    "name": "南平",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["南平市"]
+  },
+  {
+    "id": "福建省-三明",
+    "name": "三明",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["三明市"]
+  },
+  {
+    "id": "福建省-莆田",
+    "name": "莆田",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["莆田市"]
+  },
+  {
+    "id": "福建省-泉州",
+    "name": "泉州",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["泉州市"]
+  },
+  {
+    "id": "福建省-漳州",
+    "name": "漳州",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["漳州市"]
+  },
+  {
+    "id": "福建省-龙岩",
+    "name": "龙岩",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["龙岩市"]
+  },
+  {
+    "id": "福建省-宁德",
+    "name": "宁德",
+    "province": "福建省",
+    "level": "PREFECTURE",
+    "aliases": ["宁德市"]
+  },
+  {
+    "id": "福建省-福清",
+    "name": "福清",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["福清市"]
+  },
+  {
+    "id": "福建省-邵武",
+    "name": "邵武",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["邵武市"]
+  },
+  {
+    "id": "福建省-武夷山",
+    "name": "武夷山",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["武夷山市"]
+  },
+  {
+    "id": "福建省-建瓯",
+    "name": "建瓯",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["建瓯市"]
+  },
+  {
+    "id": "福建省-永安",
+    "name": "永安",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["永安市"]
+  },
+  {
+    "id": "福建省-石狮",
+    "name": "石狮",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["石狮市"]
+  },
+  {
+    "id": "福建省-晋江",
+    "name": "晋江",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["晋江市"]
+  },
+  {
+    "id": "福建省-南安",
+    "name": "南安",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["南安市"]
+  },
+  {
+    "id": "福建省-龙海",
+    "name": "龙海",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["龙海市"]
+  },
+  {
+    "id": "福建省-漳平",
+    "name": "漳平",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["漳平市"]
+  },
+  {
+    "id": "福建省-福安",
+    "name": "福安",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["福安市"]
+  },
+  {
+    "id": "福建省-福鼎",
+    "name": "福鼎",
+    "province": "福建省",
+    "level": "COUNTY",
+    "aliases": ["福鼎市"]
+  },
+  {
+    "id": "甘肃省-兰州",
+    "name": "兰州",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["兰州市"]
+  },
+  {
+    "id": "甘肃省-天水",
+    "name": "天水",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["天水市"]
+  },
+  {
+    "id": "甘肃省-嘉峪关",
+    "name": "嘉峪关",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["嘉峪关市"]
+  },
+  {
+    "id": "甘肃省-金昌",
+    "name": "金昌",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["金昌市"]
+  },
+  {
+    "id": "甘肃省-白银",
+    "name": "白银",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["白银市"]
+  },
+  {
+    "id": "甘肃省-酒泉",
+    "name": "酒泉",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["酒泉市"]
+  },
+  {
+    "id": "甘肃省-张掖",
+    "name": "张掖",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["张掖市"]
+  },
+  {
+    "id": "甘肃省-武威",
+    "name": "武威",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["武威市"]
+  },
+  {
+    "id": "甘肃省-庆阳",
+    "name": "庆阳",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["庆阳市"]
+  },
+  {
+    "id": "甘肃省-平凉",
+    "name": "平凉",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["平凉市"]
+  },
+  {
+    "id": "甘肃省-定西",
+    "name": "定西",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["定西市"]
+  },
+  {
+    "id": "甘肃省-陇南",
+    "name": "陇南",
+    "province": "甘肃省",
+    "level": "PREFECTURE",
+    "aliases": ["陇南市"]
+  },
+  {
+    "id": "甘肃省-玉门",
+    "name": "玉门",
+    "province": "甘肃省",
+    "level": "COUNTY",
+    "aliases": ["玉门市"]
+  },
+  {
+    "id": "甘肃省-敦煌",
+    "name": "敦煌",
+    "province": "甘肃省",
+    "level": "COUNTY",
+    "aliases": ["敦煌市"]
+  },
+  {
+    "id": "甘肃省-临夏",
+    "name": "临夏",
+    "province": "甘肃省",
+    "level": "COUNTY",
+    "aliases": ["临夏市"]
+  },
+  {
+    "id": "甘肃省-合作",
+    "name": "合作",
+    "province": "甘肃省",
+    "level": "COUNTY",
+    "aliases": ["合作市"]
+  },
+  {
+    "id": "广东省-广州",
+    "name": "广州",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["广州市"]
+  },
+  {
+    "id": "广东省-深圳",
+    "name": "深圳",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["深圳市"]
+  },
+  {
+    "id": "广东省-清远",
+    "name": "清远",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["清远市"]
+  },
+  {
+    "id": "广东省-韶关",
+    "name": "韶关",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["韶关市"]
+  },
+  {
+    "id": "广东省-河源",
+    "name": "河源",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["河源市"]
+  },
+  {
+    "id": "广东省-梅州",
+    "name": "梅州",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["梅州市"]
+  },
+  {
+    "id": "广东省-潮州",
+    "name": "潮州",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["潮州市"]
+  },
+  {
+    "id": "广东省-汕头",
+    "name": "汕头",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["汕头市"]
+  },
+  {
+    "id": "广东省-揭阳",
+    "name": "揭阳",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["揭阳市"]
+  },
+  {
+    "id": "广东省-汕尾",
+    "name": "汕尾",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["汕尾市"]
+  },
+  {
+    "id": "广东省-惠州",
+    "name": "惠州",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["惠州市"]
+  },
+  {
+    "id": "广东省-东莞",
+    "name": "东莞",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["东莞市"]
+  },
+  {
+    "id": "广东省-珠海",
+    "name": "珠海",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["珠海市"]
+  },
+  {
+    "id": "广东省-中山",
+    "name": "中山",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["中山市"]
+  },
+  {
+    "id": "广东省-江门",
+    "name": "江门",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["江门市"]
+  },
+  {
+    "id": "广东省-佛山",
+    "name": "佛山",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["佛山市"]
+  },
+  {
+    "id": "广东省-肇庆",
+    "name": "肇庆",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["肇庆市"]
+  },
+  {
+    "id": "广东省-云浮",
+    "name": "云浮",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["云浮市"]
+  },
+  {
+    "id": "广东省-阳江",
+    "name": "阳江",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["阳江市"]
+  },
+  {
+    "id": "广东省-茂名",
+    "name": "茂名",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["茂名市"]
+  },
+  {
+    "id": "广东省-湛江",
+    "name": "湛江",
+    "province": "广东省",
+    "level": "PREFECTURE",
+    "aliases": ["湛江市"]
+  },
+  {
+    "id": "广东省-英德",
+    "name": "英德",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["英德市"]
+  },
+  {
+    "id": "广东省-连州",
+    "name": "连州",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["连州市"]
+  },
+  {
+    "id": "广东省-乐昌",
+    "name": "乐昌",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["乐昌市"]
+  },
+  {
+    "id": "广东省-南雄",
+    "name": "南雄",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["南雄市"]
+  },
+  {
+    "id": "广东省-兴宁",
+    "name": "兴宁",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["兴宁市"]
+  },
+  {
+    "id": "广东省-普宁",
+    "name": "普宁",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["普宁市"]
+  },
+  {
+    "id": "广东省-陆丰",
+    "name": "陆丰",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["陆丰市"]
+  },
+  {
+    "id": "广东省-恩平",
+    "name": "恩平",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["恩平市"]
+  },
+  {
+    "id": "广东省-台山",
+    "name": "台山",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["台山市"]
+  },
+  {
+    "id": "广东省-开平",
+    "name": "开平",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["开平市"]
+  },
+  {
+    "id": "广东省-鹤山",
+    "name": "鹤山",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["鹤山市"]
+  },
+  {
+    "id": "广东省-四会",
+    "name": "四会",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["四会市"]
+  },
+  {
+    "id": "广东省-罗定",
+    "name": "罗定",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["罗定市"]
+  },
+  {
+    "id": "广东省-阳春",
+    "name": "阳春",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["阳春市"]
+  },
+  {
+    "id": "广东省-化州",
+    "name": "化州",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["化州市"]
+  },
+  {
+    "id": "广东省-信宜",
+    "name": "信宜",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["信宜市"]
+  },
+  {
+    "id": "广东省-高州",
+    "name": "高州",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["高州市"]
+  },
+  {
+    "id": "广东省-吴川",
+    "name": "吴川",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["吴川市"]
+  },
+  {
+    "id": "广东省-廉江",
+    "name": "廉江",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["廉江市"]
+  },
+  {
+    "id": "广东省-雷州",
+    "name": "雷州",
+    "province": "广东省",
+    "level": "COUNTY",
+    "aliases": ["雷州市"]
+  },
+  {
+    "id": "贵州省-贵阳",
+    "name": "贵阳",
+    "province": "贵州省",
+    "level": "PREFECTURE",
+    "aliases": ["贵阳市"]
+  },
+  {
+    "id": "贵州省-六盘水",
+    "name": "六盘水",
+    "province": "贵州省",
+    "level": "PREFECTURE",
+    "aliases": ["六盘水市"]
+  },
+  {
+    "id": "贵州省-遵义",
+    "name": "遵义",
+    "province": "贵州省",
+    "level": "PREFECTURE",
+    "aliases": ["遵义市"]
+  },
+  {
+    "id": "贵州省-安顺",
+    "name": "安顺",
+    "province": "贵州省",
+    "level": "PREFECTURE",
+    "aliases": ["安顺市"]
+  },
+  {
+    "id": "贵州省-毕节",
+    "name": "毕节",
+    "province": "贵州省",
+    "level": "PREFECTURE",
+    "aliases": ["毕节市"]
+  },
+  {
+    "id": "贵州省-铜仁",
+    "name": "铜仁",
+    "province": "贵州省",
+    "level": "PREFECTURE",
+    "aliases": ["铜仁市"]
+  },
+  {
+    "id": "贵州省-清镇",
+    "name": "清镇",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["清镇市"]
+  },
+  {
+    "id": "贵州省-赤水",
+    "name": "赤水",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["赤水市"]
+  },
+  {
+    "id": "贵州省-仁怀",
+    "name": "仁怀",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["仁怀市"]
+  },
+  {
+    "id": "贵州省-凯里",
+    "name": "凯里",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["凯里市"]
+  },
+  {
+    "id": "贵州省-都匀",
+    "name": "都匀",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["都匀市"]
+  },
+  {
+    "id": "贵州省-兴义",
+    "name": "兴义",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["兴义市"]
+  },
+  {
+    "id": "贵州省-福泉",
+    "name": "福泉",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["福泉市"]
+  },
+  {
+    "id": "贵州省-盘州",
+    "name": "盘州",
+    "province": "贵州省",
+    "level": "COUNTY",
+    "aliases": ["盘州市"]
+  },
+  {
+    "id": "河北省-石家庄",
+    "name": "石家庄",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["石家庄市"]
+  },
+  {
+    "id": "河北省-邯郸",
+    "name": "邯郸",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["邯郸市"]
+  },
+  {
+    "id": "河北省-唐山",
+    "name": "唐山",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["唐山市"]
+  },
+  {
+    "id": "河北省-保定",
+    "name": "保定",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["保定市"]
+  },
+  {
+    "id": "河北省-秦皇岛",
+    "name": "秦皇岛",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["秦皇岛市"]
+  },
+  {
+    "id": "河北省-邢台",
+    "name": "邢台",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["邢台市"]
+  },
+  {
+    "id": "河北省-张家口",
+    "name": "张家口",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["张家口市"]
+  },
+  {
+    "id": "河北省-承德",
+    "name": "承德",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["承德市"]
+  },
+  {
+    "id": "河北省-沧州",
+    "name": "沧州",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["沧州市"]
+  },
+  {
+    "id": "河北省-廊坊",
+    "name": "廊坊",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["廊坊市"]
+  },
+  {
+    "id": "河北省-衡水",
+    "name": "衡水",
+    "province": "河北省",
+    "level": "PREFECTURE",
+    "aliases": ["衡水市"]
+  },
+  {
+    "id": "河北省-定州",
+    "name": "定州",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["定州市"]
+  },
+  {
+    "id": "河北省-辛集",
+    "name": "辛集",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["辛集市"]
+  },
+  {
+    "id": "河北省-藁城",
+    "name": "藁城",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["藁城市"]
+  },
+  {
+    "id": "河北省-晋州",
+    "name": "晋州",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["晋州市"]
+  },
+  {
+    "id": "河北省-新乐",
+    "name": "新乐",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["新乐市"]
+  },
+  {
+    "id": "河北省-鹿泉",
+    "name": "鹿泉",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["鹿泉市"]
+  },
+  {
+    "id": "河北省-遵化",
+    "name": "遵化",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["遵化市"]
+  },
+  {
+    "id": "河北省-迁安",
+    "name": "迁安",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["迁安市"]
+  },
+  {
+    "id": "河北省-霸州",
+    "name": "霸州",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["霸州市"]
+  },
+  {
+    "id": "河北省-三河",
+    "name": "三河",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["三河市"]
+  },
+  {
+    "id": "河北省-涿州",
+    "name": "涿州",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["涿州市"]
+  },
+  {
+    "id": "河北省-安国",
+    "name": "安国",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["安国市"]
+  },
+  {
+    "id": "河北省-高碑店",
+    "name": "高碑店",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["高碑店市"]
+  },
+  {
+    "id": "河北省-泊头",
+    "name": "泊头",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["泊头市"]
+  },
+  {
+    "id": "河北省-任丘",
+    "name": "任丘",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["任丘市"]
+  },
+  {
+    "id": "河北省-黄骅",
+    "name": "黄骅",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["黄骅市"]
+  },
+  {
+    "id": "河北省-河间",
+    "name": "河间",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["河间市"]
+  },
+  {
+    "id": "河北省-冀州",
+    "name": "冀州",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["冀州市"]
+  },
+  {
+    "id": "河北省-深州",
+    "name": "深州",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["深州市"]
+  },
+  {
+    "id": "河北省-南宫",
+    "name": "南宫",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["南宫市"]
+  },
+  {
+    "id": "河北省-沙河",
+    "name": "沙河",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["沙河市"]
+  },
+  {
+    "id": "河北省-武安",
+    "name": "武安",
+    "province": "河北省",
+    "level": "COUNTY",
+    "aliases": ["武安市"]
+  },
+  {
+    "id": "湖北省-武汉",
+    "name": "武汉",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["武汉市"]
+  },
+  {
+    "id": "湖北省-十堰",
+    "name": "十堰",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["十堰市"]
+  },
+  {
+    "id": "湖北省-襄阳",
+    "name": "襄阳",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["襄阳市"]
+  },
+  {
+    "id": "湖北省-荆门",
+    "name": "荆门",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["荆门市"]
+  },
+  {
+    "id": "湖北省-孝感",
+    "name": "孝感",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["孝感市"]
+  },
+  {
+    "id": "湖北省-黄冈",
+    "name": "黄冈",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["黄冈市"]
+  },
+  {
+    "id": "湖北省-鄂州",
+    "name": "鄂州",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["鄂州市"]
+  },
+  {
+    "id": "湖北省-黄石",
+    "name": "黄石",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["黄石市"]
+  },
+  {
+    "id": "湖北省-咸宁",
+    "name": "咸宁",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["咸宁市"]
+  },
+  {
+    "id": "湖北省-荆州",
+    "name": "荆州",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["荆州市"]
+  },
+  {
+    "id": "湖北省-宜昌",
+    "name": "宜昌",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["宜昌市"]
+  },
+  {
+    "id": "湖北省-随州",
+    "name": "随州",
+    "province": "湖北省",
+    "level": "PREFECTURE",
+    "aliases": ["随州市"]
+  },
+  {
+    "id": "湖北省-仙桃",
+    "name": "仙桃",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["仙桃市"]
+  },
+  {
+    "id": "湖北省-天门",
+    "name": "天门",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["天门市"]
+  },
+  {
+    "id": "湖北省-潜江",
+    "name": "潜江",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["潜江市"]
+  },
+  {
+    "id": "湖北省-丹江口",
+    "name": "丹江口",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["丹江口市"]
+  },
+  {
+    "id": "湖北省-老河口",
+    "name": "老河口",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["老河口市"]
+  },
+  {
+    "id": "湖北省-枣阳",
+    "name": "枣阳",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["枣阳市"]
+  },
+  {
+    "id": "湖北省-宜城",
+    "name": "宜城",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["宜城市"]
+  },
+  {
+    "id": "湖北省-钟祥",
+    "name": "钟祥",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["钟祥市"]
+  },
+  {
+    "id": "湖北省-汉川",
+    "name": "汉川",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["汉川市"]
+  },
+  {
+    "id": "湖北省-应城",
+    "name": "应城",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["应城市"]
+  },
+  {
+    "id": "湖北省-安陆",
+    "name": "安陆",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["安陆市"]
+  },
+  {
+    "id": "湖北省-广水",
+    "name": "广水",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["广水市"]
+  },
+  {
+    "id": "湖北省-麻城",
+    "name": "麻城",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["麻城市"]
+  },
+  {
+    "id": "湖北省-武穴",
+    "name": "武穴",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["武穴市"]
+  },
+  {
+    "id": "湖北省-大冶",
+    "name": "大冶",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["大冶市"]
+  },
+  {
+    "id": "湖北省-赤壁",
+    "name": "赤壁",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["赤壁市"]
+  },
+  {
+    "id": "湖北省-石首",
+    "name": "石首",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["石首市"]
+  },
+  {
+    "id": "湖北省-洪湖",
+    "name": "洪湖",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["洪湖市"]
+  },
+  {
+    "id": "湖北省-松滋",
+    "name": "松滋",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["松滋市"]
+  },
+  {
+    "id": "湖北省-宜都",
+    "name": "宜都",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["宜都市"]
+  },
+  {
+    "id": "湖北省-枝江",
+    "name": "枝江",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["枝江市"]
+  },
+  {
+    "id": "湖北省-当阳",
+    "name": "当阳",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["当阳市"]
+  },
+  {
+    "id": "湖北省-恩施",
+    "name": "恩施",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["恩施市"]
+  },
+  {
+    "id": "湖北省-利川",
+    "name": "利川",
+    "province": "湖北省",
+    "level": "COUNTY",
+    "aliases": ["利川市"]
+  },
+  {
+    "id": "湖南省-长沙",
+    "name": "长沙",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["长沙市"]
+  },
+  {
+    "id": "湖南省-衡阳",
+    "name": "衡阳",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["衡阳市"]
+  },
+  {
+    "id": "湖南省-张家界",
+    "name": "张家界",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["张家界市"]
+  },
+  {
+    "id": "湖南省-常德",
+    "name": "常德",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["常德市"]
+  },
+  {
+    "id": "湖南省-益阳",
+    "name": "益阳",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["益阳市"]
+  },
+  {
+    "id": "湖南省-岳阳",
+    "name": "岳阳",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["岳阳市"]
+  },
+  {
+    "id": "湖南省-株洲",
+    "name": "株洲",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["株洲市"]
+  },
+  {
+    "id": "湖南省-湘潭",
+    "name": "湘潭",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["湘潭市"]
+  },
+  {
+    "id": "湖南省-郴州",
+    "name": "郴州",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["郴州市"]
+  },
+  {
+    "id": "湖南省-永州",
+    "name": "永州",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["永州市"]
+  },
+  {
+    "id": "湖南省-邵阳",
+    "name": "邵阳",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["邵阳市"]
+  },
+  {
+    "id": "湖南省-怀化",
+    "name": "怀化",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["怀化市"]
+  },
+  {
+    "id": "湖南省-娄底",
+    "name": "娄底",
+    "province": "湖南省",
+    "level": "PREFECTURE",
+    "aliases": ["娄底市"]
+  },
+  {
+    "id": "湖南省-耒阳",
+    "name": "耒阳",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["耒阳市"]
+  },
+  {
+    "id": "湖南省-常宁",
+    "name": "常宁",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["常宁市"]
+  },
+  {
+    "id": "湖南省-浏阳",
+    "name": "浏阳",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["浏阳市"]
+  },
+  {
+    "id": "湖南省-津",
+    "name": "津",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["津市"]
+  },
+  {
+    "id": "湖南省-沅江",
+    "name": "沅江",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["沅江市"]
+  },
+  {
+    "id": "湖南省-汨罗",
+    "name": "汨罗",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["汨罗市"]
+  },
+  {
+    "id": "湖南省-临湘",
+    "name": "临湘",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["临湘市"]
+  },
+  {
+    "id": "湖南省-醴陵",
+    "name": "醴陵",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["醴陵市"]
+  },
+  {
+    "id": "湖南省-湘乡",
+    "name": "湘乡",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["湘乡市"]
+  },
+  {
+    "id": "湖南省-韶山",
+    "name": "韶山",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["韶山市"]
+  },
+  {
+    "id": "湖南省-资兴",
+    "name": "资兴",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["资兴市"]
+  },
+  {
+    "id": "湖南省-武冈",
+    "name": "武冈",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["武冈市"]
+  },
+  {
+    "id": "湖南省-洪江",
+    "name": "洪江",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["洪江市"]
+  },
+  {
+    "id": "湖南省-冷水江",
+    "name": "冷水江",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["冷水江市"]
+  },
+  {
+    "id": "湖南省-涟源",
+    "name": "涟源",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["涟源市"]
+  },
+  {
+    "id": "湖南省-吉首",
+    "name": "吉首",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["吉首市"]
+  },
+  {
+    "id": "湖南省-宁乡",
+    "name": "宁乡",
+    "province": "湖南省",
+    "level": "COUNTY",
+    "aliases": ["宁乡市"]
+  },
+  {
+    "id": "吉林省-长春",
+    "name": "长春",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["长春市"]
+  },
+  {
+    "id": "吉林省-吉林",
+    "name": "吉林",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["吉林市"]
+  },
+  {
+    "id": "吉林省-白城",
+    "name": "白城",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["白城市"]
+  },
+  {
+    "id": "吉林省-松原",
+    "name": "松原",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["松原市"]
+  },
+  {
+    "id": "吉林省-四平",
+    "name": "四平",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["四平市"]
+  },
+  {
+    "id": "吉林省-辽源",
+    "name": "辽源",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["辽源市"]
+  },
+  {
+    "id": "吉林省-通化",
+    "name": "通化",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["通化市"]
+  },
+  {
+    "id": "吉林省-白山",
+    "name": "白山",
+    "province": "吉林省",
+    "level": "PREFECTURE",
+    "aliases": ["白山市"]
+  },
+  {
+    "id": "吉林省-德惠",
+    "name": "德惠",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["德惠市"]
+  },
+  {
+    "id": "吉林省-榆树",
+    "name": "榆树",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["榆树市"]
+  },
+  {
+    "id": "吉林省-磐石",
+    "name": "磐石",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["磐石市"]
+  },
+  {
+    "id": "吉林省-蛟河",
+    "name": "蛟河",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["蛟河市"]
+  },
+  {
+    "id": "吉林省-桦甸",
+    "name": "桦甸",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["桦甸市"]
+  },
+  {
+    "id": "吉林省-舒兰",
+    "name": "舒兰",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["舒兰市"]
+  },
+  {
+    "id": "吉林省-洮南",
+    "name": "洮南",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["洮南市"]
+  },
+  {
+    "id": "吉林省-大安",
+    "name": "大安",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["大安市"]
+  },
+  {
+    "id": "吉林省-双辽",
+    "name": "双辽",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["双辽市"]
+  },
+  {
+    "id": "吉林省-公主岭",
+    "name": "公主岭",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["公主岭市"]
+  },
+  {
+    "id": "吉林省-梅河口",
+    "name": "梅河口",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["梅河口市"]
+  },
+  {
+    "id": "吉林省-集安",
+    "name": "集安",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["集安市"]
+  },
+  {
+    "id": "吉林省-临江",
+    "name": "临江",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["临江市"]
+  },
+  {
+    "id": "吉林省-延吉",
+    "name": "延吉",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["延吉市"]
+  },
+  {
+    "id": "吉林省-图们",
+    "name": "图们",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["图们市"]
+  },
+  {
+    "id": "吉林省-敦化",
+    "name": "敦化",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["敦化市"]
+  },
+  {
+    "id": "吉林省-珲春",
+    "name": "珲春",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["珲春市"]
+  },
+  {
+    "id": "吉林省-龙井",
+    "name": "龙井",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["龙井市"]
+  },
+  {
+    "id": "吉林省-和龙",
+    "name": "和龙",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["和龙市"]
+  },
+  {
+    "id": "吉林省-扶余",
+    "name": "扶余",
+    "province": "吉林省",
+    "level": "COUNTY",
+    "aliases": ["扶余市"]
+  },
+  {
+    "id": "江西省-南昌",
+    "name": "南昌",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["南昌市"]
+  },
+  {
+    "id": "江西省-九江",
+    "name": "九江",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["九江市"]
+  },
+  {
+    "id": "江西省-赣州",
+    "name": "赣州",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["赣州市"]
+  },
+  {
+    "id": "江西省-景德镇",
+    "name": "景德镇",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["景德镇市"]
+  },
+  {
+    "id": "江西省-鹰潭",
+    "name": "鹰潭",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["鹰潭市"]
+  },
+  {
+    "id": "江西省-新余",
+    "name": "新余",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["新余市"]
+  },
+  {
+    "id": "江西省-萍乡",
+    "name": "萍乡",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["萍乡市"]
+  },
+  {
+    "id": "江西省-上饶",
+    "name": "上饶",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["上饶市"]
+  },
+  {
+    "id": "江西省-抚州",
+    "name": "抚州",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["抚州市"]
+  },
+  {
+    "id": "江西省-宜春",
+    "name": "宜春",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["宜春市"]
+  },
+  {
+    "id": "江西省-吉安",
+    "name": "吉安",
+    "province": "江西省",
+    "level": "PREFECTURE",
+    "aliases": ["吉安市"]
+  },
+  {
+    "id": "江西省-庐山",
+    "name": "庐山",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["庐山市"]
+  },
+  {
+    "id": "江西省-瑞昌",
+    "name": "瑞昌",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["瑞昌市"]
+  },
+  {
+    "id": "江西省-乐平",
+    "name": "乐平",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["乐平市"]
+  },
+  {
+    "id": "江西省-瑞金",
+    "name": "瑞金",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["瑞金市"]
+  },
+  {
+    "id": "江西省-德兴",
+    "name": "德兴",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["德兴市"]
+  },
+  {
+    "id": "江西省-丰城",
+    "name": "丰城",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["丰城市"]
+  },
+  {
+    "id": "江西省-樟树",
+    "name": "樟树",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["樟树市"]
+  },
+  {
+    "id": "江西省-高安",
+    "name": "高安",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["高安市"]
+  },
+  {
+    "id": "江西省-井冈山",
+    "name": "井冈山",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["井冈山市"]
+  },
+  {
+    "id": "江西省-贵溪",
+    "name": "贵溪",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["贵溪市"]
+  },
+  {
+    "id": "江西省-共青城",
+    "name": "共青城",
+    "province": "江西省",
+    "level": "COUNTY",
+    "aliases": ["共青城市"]
+  },
+  {
+    "id": "江苏省-南京",
+    "name": "南京",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["南京市"]
+  },
+  {
+    "id": "江苏省-徐州",
+    "name": "徐州",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["徐州市"]
+  },
+  {
+    "id": "江苏省-连云港",
+    "name": "连云港",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["连云港市"]
+  },
+  {
+    "id": "江苏省-宿迁",
+    "name": "宿迁",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["宿迁市"]
+  },
+  {
+    "id": "江苏省-淮安",
+    "name": "淮安",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["淮安市"]
+  },
+  {
+    "id": "江苏省-盐城",
+    "name": "盐城",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["盐城市"]
+  },
+  {
+    "id": "江苏省-扬州",
+    "name": "扬州",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["扬州市"]
+  },
+  {
+    "id": "江苏省-泰州",
+    "name": "泰州",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["泰州市"]
+  },
+  {
+    "id": "江苏省-南通",
+    "name": "南通",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["南通市"]
+  },
+  {
+    "id": "江苏省-镇江",
+    "name": "镇江",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["镇江市"]
+  },
+  {
+    "id": "江苏省-常州",
+    "name": "常州",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["常州市"]
+  },
+  {
+    "id": "江苏省-无锡",
+    "name": "无锡",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["无锡市"]
+  },
+  {
+    "id": "江苏省-苏州",
+    "name": "苏州",
+    "province": "江苏省",
+    "level": "PREFECTURE",
+    "aliases": ["苏州市"]
+  },
+  {
+    "id": "江苏省-江阴",
+    "name": "江阴",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["江阴市"]
+  },
+  {
+    "id": "江苏省-宜兴",
+    "name": "宜兴",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["宜兴市"]
+  },
+  {
+    "id": "江苏省-邳州",
+    "name": "邳州",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["邳州市"]
+  },
+  {
+    "id": "江苏省-新沂",
+    "name": "新沂",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["新沂市"]
+  },
+  {
+    "id": "江苏省-金坛",
+    "name": "金坛",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["金坛市"]
+  },
+  {
+    "id": "江苏省-溧阳",
+    "name": "溧阳",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["溧阳市"]
+  },
+  {
+    "id": "江苏省-常熟",
+    "name": "常熟",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["常熟市"]
+  },
+  {
+    "id": "江苏省-张家港",
+    "name": "张家港",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["张家港市"]
+  },
+  {
+    "id": "江苏省-太仓",
+    "name": "太仓",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["太仓市"]
+  },
+  {
+    "id": "江苏省-昆山",
+    "name": "昆山",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["昆山市"]
+  },
+  {
+    "id": "江苏省-如皋",
+    "name": "如皋",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["如皋市"]
+  },
+  {
+    "id": "江苏省-海门",
+    "name": "海门",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["海门市"]
+  },
+  {
+    "id": "江苏省-启东",
+    "name": "启东",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["启东市"]
+  },
+  {
+    "id": "江苏省-东台",
+    "name": "东台",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["东台市"]
+  },
+  {
+    "id": "江苏省-高邮",
+    "name": "高邮",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["高邮市"]
+  },
+  {
+    "id": "江苏省-仪征",
+    "name": "仪征",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["仪征市"]
+  },
+  {
+    "id": "江苏省-扬中",
+    "name": "扬中",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["扬中市"]
+  },
+  {
+    "id": "江苏省-句容",
+    "name": "句容",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["句容市"]
+  },
+  {
+    "id": "江苏省-丹阳",
+    "name": "丹阳",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["丹阳市"]
+  },
+  {
+    "id": "江苏省-兴化",
+    "name": "兴化",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["兴化市"]
+  },
+  {
+    "id": "江苏省-泰兴",
+    "name": "泰兴",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["泰兴市"]
+  },
+  {
+    "id": "江苏省-靖江",
+    "name": "靖江",
+    "province": "江苏省",
+    "level": "COUNTY",
+    "aliases": ["靖江市"]
+  },
+  {
+    "id": "辽宁省-沈阳",
+    "name": "沈阳",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["沈阳市"]
+  },
+  {
+    "id": "辽宁省-大连",
+    "name": "大连",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["大连市"]
+  },
+  {
+    "id": "辽宁省-朝阳",
+    "name": "朝阳",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["朝阳市"]
+  },
+  {
+    "id": "辽宁省-阜新",
+    "name": "阜新",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["阜新市"]
+  },
+  {
+    "id": "辽宁省-铁岭",
+    "name": "铁岭",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["铁岭市"]
+  },
+  {
+    "id": "辽宁省-抚顺",
+    "name": "抚顺",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["抚顺市"]
+  },
+  {
+    "id": "辽宁省-本溪",
+    "name": "本溪",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["本溪市"]
+  },
+  {
+    "id": "辽宁省-辽阳",
+    "name": "辽阳",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["辽阳市"]
+  },
+  {
+    "id": "辽宁省-鞍山",
+    "name": "鞍山",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["鞍山市"]
+  },
+  {
+    "id": "辽宁省-丹东",
+    "name": "丹东",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["丹东市"]
+  },
+  {
+    "id": "辽宁省-营口",
+    "name": "营口",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["营口市"]
+  },
+  {
+    "id": "辽宁省-盘锦",
+    "name": "盘锦",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["盘锦市"]
+  },
+  {
+    "id": "辽宁省-锦州",
+    "name": "锦州",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["锦州市"]
+  },
+  {
+    "id": "辽宁省-葫芦岛",
+    "name": "葫芦岛",
+    "province": "辽宁省",
+    "level": "PREFECTURE",
+    "aliases": ["葫芦岛市"]
+  },
+  {
+    "id": "辽宁省-新民",
+    "name": "新民",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["新民市"]
+  },
+  {
+    "id": "辽宁省-瓦房店",
+    "name": "瓦房店",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["瓦房店市"]
+  },
+  {
+    "id": "辽宁省-普兰店",
+    "name": "普兰店",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["普兰店市"]
+  },
+  {
+    "id": "辽宁省-庄河",
+    "name": "庄河",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["庄河市"]
+  },
+  {
+    "id": "辽宁省-北票",
+    "name": "北票",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["北票市"]
+  },
+  {
+    "id": "辽宁省-凌源",
+    "name": "凌源",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["凌源市"]
+  },
+  {
+    "id": "辽宁省-调兵山",
+    "name": "调兵山",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["调兵山市"]
+  },
+  {
+    "id": "辽宁省-开原",
+    "name": "开原",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["开原市"]
+  },
+  {
+    "id": "辽宁省-灯塔",
+    "name": "灯塔",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["灯塔市"]
+  },
+  {
+    "id": "辽宁省-海城",
+    "name": "海城",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["海城市"]
+  },
+  {
+    "id": "辽宁省-凤城",
+    "name": "凤城",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["凤城市"]
+  },
+  {
+    "id": "辽宁省-东港",
+    "name": "东港",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["东港市"]
+  },
+  {
+    "id": "辽宁省-大石桥",
+    "name": "大石桥",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["大石桥市"]
+  },
+  {
+    "id": "辽宁省-盖州",
+    "name": "盖州",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["盖州市"]
+  },
+  {
+    "id": "辽宁省-凌海",
+    "name": "凌海",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["凌海市"]
+  },
+  {
+    "id": "辽宁省-北镇",
+    "name": "北镇",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["北镇市"]
+  },
+  {
+    "id": "辽宁省-兴城",
+    "name": "兴城",
+    "province": "辽宁省",
+    "level": "COUNTY",
+    "aliases": ["兴城市"]
+  },
+  {
+    "id": "山东省-济南",
+    "name": "济南",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["济南市"]
+  },
+  {
+    "id": "山东省-青岛",
+    "name": "青岛",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["青岛市"]
+  },
+  {
+    "id": "山东省-聊城",
+    "name": "聊城",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["聊城市"]
+  },
+  {
+    "id": "山东省-德州",
+    "name": "德州",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["德州市"]
+  },
+  {
+    "id": "山东省-东营",
+    "name": "东营",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["东营市"]
+  },
+  {
+    "id": "山东省-淄博",
+    "name": "淄博",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["淄博市"]
+  },
+  {
+    "id": "山东省-潍坊",
+    "name": "潍坊",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["潍坊市"]
+  },
+  {
+    "id": "山东省-烟台",
+    "name": "烟台",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["烟台市"]
+  },
+  {
+    "id": "山东省-威海",
+    "name": "威海",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["威海市"]
+  },
+  {
+    "id": "山东省-日照",
+    "name": "日照",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["日照市"]
+  },
+  {
+    "id": "山东省-临沂",
+    "name": "临沂",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["临沂市"]
+  },
+  {
+    "id": "山东省-枣庄",
+    "name": "枣庄",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["枣庄市"]
+  },
+  {
+    "id": "山东省-济宁",
+    "name": "济宁",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["济宁市"]
+  },
+  {
+    "id": "山东省-泰安",
+    "name": "泰安",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["泰安市"]
+  },
+  {
+    "id": "山东省-莱芜",
+    "name": "莱芜",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["莱芜市"]
+  },
+  {
+    "id": "山东省-滨州",
+    "name": "滨州",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["滨州市"]
+  },
+  {
+    "id": "山东省-菏泽",
+    "name": "菏泽",
+    "province": "山东省",
+    "level": "PREFECTURE",
+    "aliases": ["菏泽市"]
+  },
+  {
+    "id": "山东省-即墨",
+    "name": "即墨",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["即墨市"]
+  },
+  {
+    "id": "山东省-平度",
+    "name": "平度",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["平度市"]
+  },
+  {
+    "id": "山东省-胶州",
+    "name": "胶州",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["胶州市"]
+  },
+  {
+    "id": "山东省-莱西",
+    "name": "莱西",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["莱西市"]
+  },
+  {
+    "id": "山东省-临清",
+    "name": "临清",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["临清市"]
+  },
+  {
+    "id": "山东省-乐陵",
+    "name": "乐陵",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["乐陵市"]
+  },
+  {
+    "id": "山东省-禹城",
+    "name": "禹城",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["禹城市"]
+  },
+  {
+    "id": "山东省-安丘",
+    "name": "安丘",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["安丘市"]
+  },
+  {
+    "id": "山东省-昌邑",
+    "name": "昌邑",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["昌邑市"]
+  },
+  {
+    "id": "山东省-高密",
+    "name": "高密",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["高密市"]
+  },
+  {
+    "id": "山东省-青州",
+    "name": "青州",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["青州市"]
+  },
+  {
+    "id": "山东省-诸城",
+    "name": "诸城",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["诸城市"]
+  },
+  {
+    "id": "山东省-寿光",
+    "name": "寿光",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["寿光市"]
+  },
+  {
+    "id": "山东省-栖霞",
+    "name": "栖霞",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["栖霞市"]
+  },
+  {
+    "id": "山东省-海阳",
+    "name": "海阳",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["海阳市"]
+  },
+  {
+    "id": "山东省-龙口",
+    "name": "龙口",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["龙口市"]
+  },
+  {
+    "id": "山东省-莱阳",
+    "name": "莱阳",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["莱阳市"]
+  },
+  {
+    "id": "山东省-莱州",
+    "name": "莱州",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["莱州市"]
+  },
+  {
+    "id": "山东省-蓬莱",
+    "name": "蓬莱",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["蓬莱市"]
+  },
+  {
+    "id": "山东省-招远",
+    "name": "招远",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["招远市"]
+  },
+  {
+    "id": "山东省-荣成",
+    "name": "荣成",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["荣成市"]
+  },
+  {
+    "id": "山东省-乳山",
+    "name": "乳山",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["乳山市"]
+  },
+  {
+    "id": "山东省-滕州",
+    "name": "滕州",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["滕州市"]
+  },
+  {
+    "id": "山东省-曲阜",
+    "name": "曲阜",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["曲阜市"]
+  },
+  {
+    "id": "山东省-邹城",
+    "name": "邹城",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["邹城市"]
+  },
+  {
+    "id": "山东省-新泰",
+    "name": "新泰",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["新泰市"]
+  },
+  {
+    "id": "山东省-肥城",
+    "name": "肥城",
+    "province": "山东省",
+    "level": "COUNTY",
+    "aliases": ["肥城市"]
+  },
+  {
+    "id": "黑龙江省-哈尔滨",
+    "name": "哈尔滨",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["哈尔滨市"]
+  },
+  {
+    "id": "黑龙江省-齐齐哈尔",
+    "name": "齐齐哈尔",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["齐齐哈尔市"]
+  },
+  {
+    "id": "黑龙江省-牡丹江",
+    "name": "牡丹江",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["牡丹江市"]
+  },
+  {
+    "id": "黑龙江省-佳木斯",
+    "name": "佳木斯",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["佳木斯市"]
+  },
+  {
+    "id": "黑龙江省-七台河",
+    "name": "七台河",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["七台河市"]
+  },
+  {
+    "id": "黑龙江省-大庆",
+    "name": "大庆",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["大庆市"]
+  },
+  {
+    "id": "黑龙江省-黑河",
+    "name": "黑河",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["黑河市"]
+  },
+  {
+    "id": "黑龙江省-伊春",
+    "name": "伊春",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["伊春市"]
+  },
+  {
+    "id": "黑龙江省-鹤岗",
+    "name": "鹤岗",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["鹤岗市"]
+  },
+  {
+    "id": "黑龙江省-双鸭山",
+    "name": "双鸭山",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["双鸭山市"]
+  },
+  {
+    "id": "黑龙江省-鸡西",
+    "name": "鸡西",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["鸡西市"]
+  },
+  {
+    "id": "黑龙江省-绥化",
+    "name": "绥化",
+    "province": "黑龙江省",
+    "level": "PREFECTURE",
+    "aliases": ["绥化市"]
+  },
+  {
+    "id": "黑龙江省-绥芬河",
+    "name": "绥芬河",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["绥芬河市"]
+  },
+  {
+    "id": "黑龙江省-抚远",
+    "name": "抚远",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["抚远市"]
+  },
+  {
+    "id": "黑龙江省-尚志",
+    "name": "尚志",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["尚志市"]
+  },
+  {
+    "id": "黑龙江省-五常",
+    "name": "五常",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["五常市"]
+  },
+  {
+    "id": "黑龙江省-讷河",
+    "name": "讷河",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["讷河市"]
+  },
+  {
+    "id": "黑龙江省-北安",
+    "name": "北安",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["北安市"]
+  },
+  {
+    "id": "黑龙江省-五大连池",
+    "name": "五大连池",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["五大连池市"]
+  },
+  {
+    "id": "黑龙江省-铁力",
+    "name": "铁力",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["铁力市"]
+  },
+  {
+    "id": "黑龙江省-同江",
+    "name": "同江",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["同江市"]
+  },
+  {
+    "id": "黑龙江省-富锦",
+    "name": "富锦",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["富锦市"]
+  },
+  {
+    "id": "黑龙江省-虎林",
+    "name": "虎林",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["虎林市"]
+  },
+  {
+    "id": "黑龙江省-海林",
+    "name": "海林",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["海林市"]
+  },
+  {
+    "id": "黑龙江省-密山",
+    "name": "密山",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["密山市"]
+  },
+  {
+    "id": "黑龙江省-宁安",
+    "name": "宁安",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["宁安市"]
+  },
+  {
+    "id": "黑龙江省-安达",
+    "name": "安达",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["安达市"]
+  },
+  {
+    "id": "黑龙江省-肇东",
+    "name": "肇东",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["肇东市"]
+  },
+  {
+    "id": "黑龙江省-海伦",
+    "name": "海伦",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["海伦市"]
+  },
+  {
+    "id": "黑龙江省-穆棱",
+    "name": "穆棱",
+    "province": "黑龙江省",
+    "level": "COUNTY",
+    "aliases": ["穆棱市"]
+  },
+  {
+    "id": "河南省-郑州",
+    "name": "郑州",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["郑州市"]
+  },
+  {
+    "id": "河南省-开封",
+    "name": "开封",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["开封市"]
+  },
+  {
+    "id": "河南省-洛阳",
+    "name": "洛阳",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["洛阳市"]
+  },
+  {
+    "id": "河南省-平顶山",
+    "name": "平顶山",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["平顶山市"]
+  },
+  {
+    "id": "河南省-安阳",
+    "name": "安阳",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["安阳市"]
+  },
+  {
+    "id": "河南省-鹤壁",
+    "name": "鹤壁",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["鹤壁市"]
+  },
+  {
+    "id": "河南省-新乡",
+    "name": "新乡",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["新乡市"]
+  },
+  {
+    "id": "河南省-焦作",
+    "name": "焦作",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["焦作市"]
+  },
+  {
+    "id": "河南省-濮阳",
+    "name": "濮阳",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["濮阳市"]
+  },
+  {
+    "id": "河南省-许昌",
+    "name": "许昌",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["许昌市"]
+  },
+  {
+    "id": "河南省-漯河",
+    "name": "漯河",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["漯河市"]
+  },
+  {
+    "id": "河南省-三门峡",
+    "name": "三门峡",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["三门峡市"]
+  },
+  {
+    "id": "河南省-南阳",
+    "name": "南阳",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["南阳市"]
+  },
+  {
+    "id": "河南省-商丘",
+    "name": "商丘",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["商丘市"]
+  },
+  {
+    "id": "河南省-周口",
+    "name": "周口",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["周口市"]
+  },
+  {
+    "id": "河南省-驻马店",
+    "name": "驻马店",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["驻马店市"]
+  },
+  {
+    "id": "河南省-信阳",
+    "name": "信阳",
+    "province": "河南省",
+    "level": "PREFECTURE",
+    "aliases": ["信阳市"]
+  },
+  {
+    "id": "河南省-济源",
+    "name": "济源",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["济源市"]
+  },
+  {
+    "id": "河南省-巩义",
+    "name": "巩义",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["巩义市"]
+  },
+  {
+    "id": "河南省-邓州",
+    "name": "邓州",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["邓州市"]
+  },
+  {
+    "id": "河南省-永城",
+    "name": "永城",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["永城市"]
+  },
+  {
+    "id": "河南省-汝州",
+    "name": "汝州",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["汝州市"]
+  },
+  {
+    "id": "河南省-荥阳",
+    "name": "荥阳",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["荥阳市"]
+  },
+  {
+    "id": "河南省-新郑",
+    "name": "新郑",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["新郑市"]
+  },
+  {
+    "id": "河南省-登封",
+    "name": "登封",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["登封市"]
+  },
+  {
+    "id": "河南省-新密",
+    "name": "新密",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["新密市"]
+  },
+  {
+    "id": "河南省-偃师",
+    "name": "偃师",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["偃师市"]
+  },
+  {
+    "id": "河南省-舞钢",
+    "name": "舞钢",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["舞钢市"]
+  },
+  {
+    "id": "河南省-孟州",
+    "name": "孟州",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["孟州市"]
+  },
+  {
+    "id": "河南省-沁阳",
+    "name": "沁阳",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["沁阳市"]
+  },
+  {
+    "id": "河南省-卫辉",
+    "name": "卫辉",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["卫辉市"]
+  },
+  {
+    "id": "河南省-辉县",
+    "name": "辉县",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["辉县市"]
+  },
+  {
+    "id": "河南省-林州",
+    "name": "林州",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["林州市"]
+  },
+  {
+    "id": "河南省-禹州",
+    "name": "禹州",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["禹州市"]
+  },
+  {
+    "id": "河南省-长葛",
+    "name": "长葛",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["长葛市"]
+  },
+  {
+    "id": "河南省-义马",
+    "name": "义马",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["义马市"]
+  },
+  {
+    "id": "河南省-灵宝",
+    "name": "灵宝",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["灵宝市"]
+  },
+  {
+    "id": "河南省-项城",
+    "name": "项城",
+    "province": "河南省",
+    "level": "COUNTY",
+    "aliases": ["项城市"]
+  },
+  {
+    "id": "陕西省-西安",
+    "name": "西安",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["西安市"]
+  },
+  {
+    "id": "陕西省-宝鸡",
+    "name": "宝鸡",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["宝鸡市"]
+  },
+  {
+    "id": "陕西省-延安",
+    "name": "延安",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["延安市"]
+  },
+  {
+    "id": "陕西省-铜川",
+    "name": "铜川",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["铜川市"]
+  },
+  {
+    "id": "陕西省-渭南",
+    "name": "渭南",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["渭南市"]
+  },
+  {
+    "id": "陕西省-咸阳",
+    "name": "咸阳",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["咸阳市"]
+  },
+  {
+    "id": "陕西省-汉中",
+    "name": "汉中",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["汉中市"]
+  },
+  {
+    "id": "陕西省-榆林",
+    "name": "榆林",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["榆林市"]
+  },
+  {
+    "id": "陕西省-商洛",
+    "name": "商洛",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["商洛市"]
+  },
+  {
+    "id": "陕西省-安康",
+    "name": "安康",
+    "province": "陕西省",
+    "level": "PREFECTURE",
+    "aliases": ["安康市"]
+  },
+  {
+    "id": "陕西省-韩城",
+    "name": "韩城",
+    "province": "陕西省",
+    "level": "COUNTY",
+    "aliases": ["韩城市"]
+  },
+  {
+    "id": "陕西省-华阴",
+    "name": "华阴",
+    "province": "陕西省",
+    "level": "COUNTY",
+    "aliases": ["华阴市"]
+  },
+  {
+    "id": "陕西省-兴平",
+    "name": "兴平",
+    "province": "陕西省",
+    "level": "COUNTY",
+    "aliases": ["兴平市"]
+  },
+  {
+    "id": "山西省-太原",
+    "name": "太原",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["太原市"]
+  },
+  {
+    "id": "山西省-大同",
+    "name": "大同",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["大同市"]
+  },
+  {
+    "id": "山西省-朔州",
+    "name": "朔州",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["朔州市"]
+  },
+  {
+    "id": "山西省-阳泉",
+    "name": "阳泉",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["阳泉市"]
+  },
+  {
+    "id": "山西省-长治",
+    "name": "长治",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["长治市"]
+  },
+  {
+    "id": "山西省-晋城",
+    "name": "晋城",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["晋城市"]
+  },
+  {
+    "id": "山西省-忻州",
+    "name": "忻州",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["忻州市"]
+  },
+  {
+    "id": "山西省-吕梁",
+    "name": "吕梁",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["吕梁市"]
+  },
+  {
+    "id": "山西省-晋中",
+    "name": "晋中",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["晋中市"]
+  },
+  {
+    "id": "山西省-临汾",
+    "name": "临汾",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["临汾市"]
+  },
+  {
+    "id": "山西省-运城",
+    "name": "运城",
+    "province": "山西省",
+    "level": "PREFECTURE",
+    "aliases": ["运城市"]
+  },
+  {
+    "id": "山西省-古交",
+    "name": "古交",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["古交市"]
+  },
+  {
+    "id": "山西省-潞城",
+    "name": "潞城",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["潞城市"]
+  },
+  {
+    "id": "山西省-高平",
+    "name": "高平",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["高平市"]
+  },
+  {
+    "id": "山西省-原平",
+    "name": "原平",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["原平市"]
+  },
+  {
+    "id": "山西省-孝义",
+    "name": "孝义",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["孝义市"]
+  },
+  {
+    "id": "山西省-汾阳",
+    "name": "汾阳",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["汾阳市"]
+  },
+  {
+    "id": "山西省-介休",
+    "name": "介休",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["介休市"]
+  },
+  {
+    "id": "山西省-侯马",
+    "name": "侯马",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["侯马市"]
+  },
+  {
+    "id": "山西省-霍州",
+    "name": "霍州",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["霍州市"]
+  },
+  {
+    "id": "山西省-永济",
+    "name": "永济",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["永济市"]
+  },
+  {
+    "id": "山西省-河津",
+    "name": "河津",
+    "province": "山西省",
+    "level": "COUNTY",
+    "aliases": ["河津市"]
+  },
+  {
+    "id": "四川省-成都",
+    "name": "成都",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["成都市"]
+  },
+  {
+    "id": "四川省-广元",
+    "name": "广元",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["广元市"]
+  },
+  {
+    "id": "四川省-绵阳",
+    "name": "绵阳",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["绵阳市"]
+  },
+  {
+    "id": "四川省-德阳",
+    "name": "德阳",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["德阳市"]
+  },
+  {
+    "id": "四川省-南充",
+    "name": "南充",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["南充市"]
+  },
+  {
+    "id": "四川省-广安",
+    "name": "广安",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["广安市"]
+  },
+  {
+    "id": "四川省-遂宁",
+    "name": "遂宁",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["遂宁市"]
+  },
+  {
+    "id": "四川省-内江",
+    "name": "内江",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["内江市"]
+  },
+  {
+    "id": "四川省-乐山",
+    "name": "乐山",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["乐山市"]
+  },
+  {
+    "id": "四川省-自贡",
+    "name": "自贡",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["自贡市"]
+  },
+  {
+    "id": "四川省-泸州",
+    "name": "泸州",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["泸州市"]
+  },
+  {
+    "id": "四川省-宜宾",
+    "name": "宜宾",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["宜宾市"]
+  },
+  {
+    "id": "四川省-攀枝花",
+    "name": "攀枝花",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["攀枝花市"]
+  },
+  {
+    "id": "四川省-巴中",
+    "name": "巴中",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["巴中市"]
+  },
+  {
+    "id": "四川省-达州",
+    "name": "达州",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["达州市"]
+  },
+  {
+    "id": "四川省-资阳",
+    "name": "资阳",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["资阳市"]
+  },
+  {
+    "id": "四川省-眉山",
+    "name": "眉山",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["眉山市"]
+  },
+  {
+    "id": "四川省-雅安",
+    "name": "雅安",
+    "province": "四川省",
+    "level": "PREFECTURE",
+    "aliases": ["雅安市"]
+  },
+  {
+    "id": "四川省-崇州",
+    "name": "崇州",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["崇州市"]
+  },
+  {
+    "id": "四川省-邛崃",
+    "name": "邛崃",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["邛崃市"]
+  },
+  {
+    "id": "四川省-都江堰",
+    "name": "都江堰",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["都江堰市"]
+  },
+  {
+    "id": "四川省-彭州",
+    "name": "彭州",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["彭州市"]
+  },
+  {
+    "id": "四川省-江油",
+    "name": "江油",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["江油市"]
+  },
+  {
+    "id": "四川省-什邡",
+    "name": "什邡",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["什邡市"]
+  },
+  {
+    "id": "四川省-广汉",
+    "name": "广汉",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["广汉市"]
+  },
+  {
+    "id": "四川省-绵竹",
+    "name": "绵竹",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["绵竹市"]
+  },
+  {
+    "id": "四川省-阆中",
+    "name": "阆中",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["阆中市"]
+  },
+  {
+    "id": "四川省-华蓥",
+    "name": "华蓥",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["华蓥市"]
+  },
+  {
+    "id": "四川省-峨眉山",
+    "name": "峨眉山",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["峨眉山市"]
+  },
+  {
+    "id": "四川省-万源",
+    "name": "万源",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["万源市"]
+  },
+  {
+    "id": "四川省-简阳",
+    "name": "简阳",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["简阳市"]
+  },
+  {
+    "id": "四川省-西昌",
+    "name": "西昌",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["西昌市"]
+  },
+  {
+    "id": "四川省-康定",
+    "name": "康定",
+    "province": "四川省",
+    "level": "COUNTY",
+    "aliases": ["康定市"]
+  },
+  {
+    "id": "云南省-昆明",
+    "name": "昆明",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["昆明市"]
+  },
+  {
+    "id": "云南省-曲靖",
+    "name": "曲靖",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["曲靖市"]
+  },
+  {
+    "id": "云南省-玉溪",
+    "name": "玉溪",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["玉溪市"]
+  },
+  {
+    "id": "云南省-丽江",
+    "name": "丽江",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["丽江市"]
+  },
+  {
+    "id": "云南省-昭通",
+    "name": "昭通",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["昭通市"]
+  },
+  {
+    "id": "云南省-普洱",
+    "name": "普洱",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["普洱市"]
+  },
+  {
+    "id": "云南省-临沧",
+    "name": "临沧",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["临沧市"]
+  },
+  {
+    "id": "云南省-保山",
+    "name": "保山",
+    "province": "云南省",
+    "level": "PREFECTURE",
+    "aliases": ["保山市"]
+  },
+  {
+    "id": "云南省-安宁",
+    "name": "安宁",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["安宁市"]
+  },
+  {
+    "id": "云南省-宣威",
+    "name": "宣威",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["宣威市"]
+  },
+  {
+    "id": "云南省-弥勒",
+    "name": "弥勒",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["弥勒市"]
+  },
+  {
+    "id": "云南省-芒",
+    "name": "芒",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["芒市"]
+  },
+  {
+    "id": "云南省-瑞丽",
+    "name": "瑞丽",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["瑞丽市"]
+  },
+  {
+    "id": "云南省-大理",
+    "name": "大理",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["大理市"]
+  },
+  {
+    "id": "云南省-楚雄",
+    "name": "楚雄",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["楚雄市"]
+  },
+  {
+    "id": "云南省-蒙自",
+    "name": "蒙自",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["蒙自市"]
+  },
+  {
+    "id": "云南省-个旧",
+    "name": "个旧",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["个旧市"]
+  },
+  {
+    "id": "云南省-开远",
+    "name": "开远",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["开远市"]
+  },
+  {
+    "id": "云南省-文山",
+    "name": "文山",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["文山市"]
+  },
+  {
+    "id": "云南省-香格里拉",
+    "name": "香格里拉",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["香格里拉市"]
+  },
+  {
+    "id": "云南省-景洪",
+    "name": "景洪",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["景洪市"]
+  },
+  {
+    "id": "云南省-腾冲",
+    "name": "腾冲",
+    "province": "云南省",
+    "level": "COUNTY",
+    "aliases": ["腾冲市"]
+  },
+  {
+    "id": "浙江省-杭州",
+    "name": "杭州",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["杭州市"]
+  },
+  {
+    "id": "浙江省-宁波",
+    "name": "宁波",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["宁波市"]
+  },
+  {
+    "id": "浙江省-湖州",
+    "name": "湖州",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["湖州市"]
+  },
+  {
+    "id": "浙江省-嘉兴",
+    "name": "嘉兴",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["嘉兴市"]
+  },
+  {
+    "id": "浙江省-舟山",
+    "name": "舟山",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["舟山市"]
+  },
+  {
+    "id": "浙江省-绍兴",
+    "name": "绍兴",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["绍兴市"]
+  },
+  {
+    "id": "浙江省-衢州",
+    "name": "衢州",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["衢州市"]
+  },
+  {
+    "id": "浙江省-金华",
+    "name": "金华",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["金华市"]
+  },
+  {
+    "id": "浙江省-台州",
+    "name": "台州",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["台州市"]
+  },
+  {
+    "id": "浙江省-温州",
+    "name": "温州",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["温州市"]
+  },
+  {
+    "id": "浙江省-丽水",
+    "name": "丽水",
+    "province": "浙江省",
+    "level": "PREFECTURE",
+    "aliases": ["丽水市"]
+  },
+  {
+    "id": "浙江省-建德",
+    "name": "建德",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["建德市"]
+  },
+  {
+    "id": "浙江省-慈溪",
+    "name": "慈溪",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["慈溪市"]
+  },
+  {
+    "id": "浙江省-余姚",
+    "name": "余姚",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["余姚市"]
+  },
+  {
+    "id": "浙江省-奉化",
+    "name": "奉化",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["奉化市"]
+  },
+  {
+    "id": "浙江省-平湖",
+    "name": "平湖",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["平湖市"]
+  },
+  {
+    "id": "浙江省-海宁",
+    "name": "海宁",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["海宁市"]
+  },
+  {
+    "id": "浙江省-桐乡",
+    "name": "桐乡",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["桐乡市"]
+  },
+  {
+    "id": "浙江省-诸暨",
+    "name": "诸暨",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["诸暨市"]
+  },
+  {
+    "id": "浙江省-嵊州",
+    "name": "嵊州",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["嵊州市"]
+  },
+  {
+    "id": "浙江省-江山",
+    "name": "江山",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["江山市"]
+  },
+  {
+    "id": "浙江省-兰溪",
+    "name": "兰溪",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["兰溪市"]
+  },
+  {
+    "id": "浙江省-永康",
+    "name": "永康",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["永康市"]
+  },
+  {
+    "id": "浙江省-义乌",
+    "name": "义乌",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["义乌市"]
+  },
+  {
+    "id": "浙江省-东阳",
+    "name": "东阳",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["东阳市"]
+  },
+  {
+    "id": "浙江省-临海",
+    "name": "临海",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["临海市"]
+  },
+  {
+    "id": "浙江省-温岭",
+    "name": "温岭",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["温岭市"]
+  },
+  {
+    "id": "浙江省-瑞安",
+    "name": "瑞安",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["瑞安市"]
+  },
+  {
+    "id": "浙江省-乐清",
+    "name": "乐清",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["乐清市"]
+  },
+  {
+    "id": "浙江省-龙泉",
+    "name": "龙泉",
+    "province": "浙江省",
+    "level": "COUNTY",
+    "aliases": ["龙泉市"]
+  },
+  {
+    "id": "青海省-西宁",
+    "name": "西宁",
+    "province": "青海省",
+    "level": "PREFECTURE",
+    "aliases": ["西宁市"]
+  },
+  {
+    "id": "青海省-海东",
+    "name": "海东",
+    "province": "青海省",
+    "level": "PREFECTURE",
+    "aliases": ["海东市"]
+  },
+  {
+    "id": "青海省-格尔木",
+    "name": "格尔木",
+    "province": "青海省",
+    "level": "COUNTY",
+    "aliases": ["格尔木市"]
+  },
+  {
+    "id": "青海省-德令哈",
+    "name": "德令哈",
+    "province": "青海省",
+    "level": "COUNTY",
+    "aliases": ["德令哈市"]
+  },
+  {
+    "id": "青海省-玉树",
+    "name": "玉树",
+    "province": "青海省",
+    "level": "COUNTY",
+    "aliases": ["玉树市"]
+  },
+  {
+    "id": "海南省-海口",
+    "name": "海口",
+    "province": "海南省",
+    "level": "PREFECTURE",
+    "aliases": ["海口市"]
+  },
+  {
+    "id": "海南省-三亚",
+    "name": "三亚",
+    "province": "海南省",
+    "level": "PREFECTURE",
+    "aliases": ["三亚市"]
+  },
+  {
+    "id": "海南省-三沙",
+    "name": "三沙",
+    "province": "海南省",
+    "level": "PREFECTURE",
+    "aliases": ["三沙市"]
+  },
+  {
+    "id": "海南省-儋州",
+    "name": "儋州",
+    "province": "海南省",
+    "level": "PREFECTURE",
+    "aliases": ["儋州市"]
+  },
+  {
+    "id": "海南省-文昌",
+    "name": "文昌",
+    "province": "海南省",
+    "level": "COUNTY",
+    "aliases": ["文昌市"]
+  },
+  {
+    "id": "海南省-琼海",
+    "name": "琼海",
+    "province": "海南省",
+    "level": "COUNTY",
+    "aliases": ["琼海市"]
+  },
+  {
+    "id": "海南省-万宁",
+    "name": "万宁",
+    "province": "海南省",
+    "level": "COUNTY",
+    "aliases": ["万宁市"]
+  },
+  {
+    "id": "海南省-东方",
+    "name": "东方",
+    "province": "海南省",
+    "level": "COUNTY",
+    "aliases": ["东方市"]
+  },
+  {
+    "id": "海南省-五指山",
+    "name": "五指山",
+    "province": "海南省",
+    "level": "COUNTY",
+    "aliases": ["五指山市"]
+  },
+  {
+    "id": "台湾省-台北",
+    "name": "台北",
+    "province": "台湾省",
+    "level": "MUNICIPALITY",
+    "aliases": ["台北市"]
+  },
+  {
+    "id": "台湾省-新北",
+    "name": "新北",
+    "province": "台湾省",
+    "level": "MUNICIPALITY",
+    "aliases": ["新北市"]
+  },
+  {
+    "id": "台湾省-台中",
+    "name": "台中",
+    "province": "台湾省",
+    "level": "MUNICIPALITY",
+    "aliases": ["台中市"]
+  },
+  {
+    "id": "台湾省-台南",
+    "name": "台南",
+    "province": "台湾省",
+    "level": "MUNICIPALITY",
+    "aliases": ["台南市"]
+  },
+  {
+    "id": "台湾省-高雄",
+    "name": "高雄",
+    "province": "台湾省",
+    "level": "MUNICIPALITY",
+    "aliases": ["高雄市"]
+  },
+  {
+    "id": "台湾省-桃园",
+    "name": "桃园",
+    "province": "台湾省",
+    "level": "MUNICIPALITY",
+    "aliases": ["桃园市"]
+  },
+  {
+    "id": "台湾省-基隆",
+    "name": "基隆",
+    "province": "台湾省",
+    "level": "PREFECTURE",
+    "aliases": ["基隆市"]
+  },
+  {
+    "id": "台湾省-新竹",
+    "name": "新竹",
+    "province": "台湾省",
+    "level": "PREFECTURE",
+    "aliases": ["新竹市"]
+  },
+  {
+    "id": "台湾省-嘉义",
+    "name": "嘉义",
+    "province": "台湾省",
+    "level": "PREFECTURE",
+    "aliases": ["嘉义市"]
+  },
+  {
+    "id": "台湾省-竹北",
+    "name": "竹北",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["竹北市"]
+  },
+  {
+    "id": "台湾省-苗栗",
+    "name": "苗栗",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["苗栗市"]
+  },
+  {
+    "id": "台湾省-彰化",
+    "name": "彰化",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["彰化市"]
+  },
+  {
+    "id": "台湾省-南投",
+    "name": "南投",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["南投市"]
+  },
+  {
+    "id": "台湾省-斗六",
+    "name": "斗六",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["斗六市"]
+  },
+  {
+    "id": "台湾省-太保",
+    "name": "太保",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["太保市"]
+  },
+  {
+    "id": "台湾省-朴子",
+    "name": "朴子",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["朴子市"]
+  },
+  {
+    "id": "台湾省-屏东",
+    "name": "屏东",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["屏东市"]
+  },
+  {
+    "id": "台湾省-宜兰",
+    "name": "宜兰",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["宜兰市"]
+  },
+  {
+    "id": "台湾省-花莲",
+    "name": "花莲",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["花莲市"]
+  },
+  {
+    "id": "台湾省-台东",
+    "name": "台东",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["台东市"]
+  },
+  {
+    "id": "台湾省-马公",
+    "name": "马公",
+    "province": "台湾省",
+    "level": "COUNTY",
+    "aliases": ["马公市"]
+  },
+  {
+    "id": "广西壮族自治区-南宁",
+    "name": "南宁",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["南宁市"]
+  },
+  {
+    "id": "广西壮族自治区-桂林",
+    "name": "桂林",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["桂林市"]
+  },
+  {
+    "id": "广西壮族自治区-柳州",
+    "name": "柳州",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["柳州市"]
+  },
+  {
+    "id": "广西壮族自治区-梧州",
+    "name": "梧州",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["梧州市"]
+  },
+  {
+    "id": "广西壮族自治区-贵港",
+    "name": "贵港",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["贵港市"]
+  },
+  {
+    "id": "广西壮族自治区-玉林",
+    "name": "玉林",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["玉林市"]
+  },
+  {
+    "id": "广西壮族自治区-钦州",
+    "name": "钦州",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["钦州市"]
+  },
+  {
+    "id": "广西壮族自治区-北海",
+    "name": "北海",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["北海市"]
+  },
+  {
+    "id": "广西壮族自治区-防城港",
+    "name": "防城港",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["防城港市"]
+  },
+  {
+    "id": "广西壮族自治区-崇左",
+    "name": "崇左",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["崇左市"]
+  },
+  {
+    "id": "广西壮族自治区-百色",
+    "name": "百色",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["百色市"]
+  },
+  {
+    "id": "广西壮族自治区-河池",
+    "name": "河池",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["河池市"]
+  },
+  {
+    "id": "广西壮族自治区-来宾",
+    "name": "来宾",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["来宾市"]
+  },
+  {
+    "id": "广西壮族自治区-贺州",
+    "name": "贺州",
+    "province": "广西壮族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["贺州市"]
+  },
+  {
+    "id": "广西壮族自治区-靖西",
+    "name": "靖西",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["靖西市"]
+  },
+  {
+    "id": "广西壮族自治区-岑溪",
+    "name": "岑溪",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["岑溪市"]
+  },
+  {
+    "id": "广西壮族自治区-桂平",
+    "name": "桂平",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["桂平市"]
+  },
+  {
+    "id": "广西壮族自治区-北流",
+    "name": "北流",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["北流市"]
+  },
+  {
+    "id": "广西壮族自治区-东兴",
+    "name": "东兴",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["东兴市"]
+  },
+  {
+    "id": "广西壮族自治区-凭祥",
+    "name": "凭祥",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["凭祥市"]
+  },
+  {
+    "id": "广西壮族自治区-荔浦",
+    "name": "荔浦",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["荔浦市"]
+  },
+  {
+    "id": "广西壮族自治区-合山",
+    "name": "合山",
+    "province": "广西壮族自治区",
+    "level": "COUNTY",
+    "aliases": ["合山市"]
+  },
+  {
+    "id": "内蒙古自治区-呼和浩特",
+    "name": "呼和浩特",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["呼和浩特市"]
+  },
+  {
+    "id": "内蒙古自治区-包头",
+    "name": "包头",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["包头市"]
+  },
+  {
+    "id": "内蒙古自治区-乌海",
+    "name": "乌海",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["乌海市"]
+  },
+  {
+    "id": "内蒙古自治区-赤峰",
+    "name": "赤峰",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["赤峰市"]
+  },
+  {
+    "id": "内蒙古自治区-呼伦贝尔",
+    "name": "呼伦贝尔",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["呼伦贝尔市"]
+  },
+  {
+    "id": "内蒙古自治区-通辽",
+    "name": "通辽",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["通辽市"]
+  },
+  {
+    "id": "内蒙古自治区-乌兰察布",
+    "name": "乌兰察布",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["乌兰察布市"]
+  },
+  {
+    "id": "内蒙古自治区-鄂尔多斯",
+    "name": "鄂尔多斯",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["鄂尔多斯市"]
+  },
+  {
+    "id": "内蒙古自治区-巴彦淖尔",
+    "name": "巴彦淖尔",
+    "province": "内蒙古自治区",
+    "level": "PREFECTURE",
+    "aliases": ["巴彦淖尔市"]
+  },
+  {
+    "id": "内蒙古自治区-满洲里",
+    "name": "满洲里",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["满洲里市"]
+  },
+  {
+    "id": "内蒙古自治区-扎兰屯",
+    "name": "扎兰屯",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["扎兰屯市"]
+  },
+  {
+    "id": "内蒙古自治区-牙克石",
+    "name": "牙克石",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["牙克石市"]
+  },
+  {
+    "id": "内蒙古自治区-根河",
+    "name": "根河",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["根河市"]
+  },
+  {
+    "id": "内蒙古自治区-额尔古纳",
+    "name": "额尔古纳",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["额尔古纳市"]
+  },
+  {
+    "id": "内蒙古自治区-乌兰浩特",
+    "name": "乌兰浩特",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["乌兰浩特市"]
+  },
+  {
+    "id": "内蒙古自治区-阿尔山",
+    "name": "阿尔山",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["阿尔山市"]
+  },
+  {
+    "id": "内蒙古自治区-霍林郭勒",
+    "name": "霍林郭勒",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["霍林郭勒市"]
+  },
+  {
+    "id": "内蒙古自治区-锡林浩特",
+    "name": "锡林浩特",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["锡林浩特市"]
+  },
+  {
+    "id": "内蒙古自治区-二连浩特",
+    "name": "二连浩特",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["二连浩特市"]
+  },
+  {
+    "id": "内蒙古自治区-丰镇",
+    "name": "丰镇",
+    "province": "内蒙古自治区",
+    "level": "COUNTY",
+    "aliases": ["丰镇市"]
+  },
+  {
+    "id": "宁夏回族自治区-银川",
+    "name": "银川",
+    "province": "宁夏回族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["银川市"]
+  },
+  {
+    "id": "宁夏回族自治区-石嘴山",
+    "name": "石嘴山",
+    "province": "宁夏回族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["石嘴山市"]
+  },
+  {
+    "id": "宁夏回族自治区-吴忠",
+    "name": "吴忠",
+    "province": "宁夏回族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["吴忠市"]
+  },
+  {
+    "id": "宁夏回族自治区-中卫",
+    "name": "中卫",
+    "province": "宁夏回族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["中卫市"]
+  },
+  {
+    "id": "宁夏回族自治区-固原",
+    "name": "固原",
+    "province": "宁夏回族自治区",
+    "level": "PREFECTURE",
+    "aliases": ["固原市"]
+  },
+  {
+    "id": "宁夏回族自治区-灵武",
+    "name": "灵武",
+    "province": "宁夏回族自治区",
+    "level": "COUNTY",
+    "aliases": ["灵武市"]
+  },
+  {
+    "id": "宁夏回族自治区-青铜峡",
+    "name": "青铜峡",
+    "province": "宁夏回族自治区",
+    "level": "COUNTY",
+    "aliases": ["青铜峡市"]
+  },
+  {
+    "id": "西藏自治区-拉萨",
+    "name": "拉萨",
+    "province": "西藏自治区",
+    "level": "PREFECTURE",
+    "aliases": ["拉萨市"]
+  },
+  {
+    "id": "西藏自治区-日喀则",
+    "name": "日喀则",
+    "province": "西藏自治区",
+    "level": "PREFECTURE",
+    "aliases": ["日喀则市"]
+  },
+  {
+    "id": "西藏自治区-昌都",
+    "name": "昌都",
+    "province": "西藏自治区",
+    "level": "PREFECTURE",
+    "aliases": ["昌都市"]
+  },
+  {
+    "id": "西藏自治区-林芝",
+    "name": "林芝",
+    "province": "西藏自治区",
+    "level": "PREFECTURE",
+    "aliases": ["林芝市"]
+  },
+  {
+    "id": "西藏自治区-山南",
+    "name": "山南",
+    "province": "西藏自治区",
+    "level": "PREFECTURE",
+    "aliases": ["山南市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-乌鲁木齐",
+    "name": "乌鲁木齐",
+    "province": "新疆维吾尔自治区",
+    "level": "PREFECTURE",
+    "aliases": ["乌鲁木齐市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-克拉玛依",
+    "name": "克拉玛依",
+    "province": "新疆维吾尔自治区",
+    "level": "PREFECTURE",
+    "aliases": ["克拉玛依市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-吐鲁番",
+    "name": "吐鲁番",
+    "province": "新疆维吾尔自治区",
+    "level": "PREFECTURE",
+    "aliases": ["吐鲁番市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-哈密",
+    "name": "哈密",
+    "province": "新疆维吾尔自治区",
+    "level": "PREFECTURE",
+    "aliases": ["哈密市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-石河子",
+    "name": "石河子",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["石河子（八师）", "石河子市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-五家渠",
+    "name": "五家渠",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["五家渠（六师）", "五家渠市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-阿拉尔",
+    "name": "阿拉尔",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["阿拉尔（一师）", "阿拉尔市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-图木舒克",
+    "name": "图木舒克",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["图木舒克（三师）", "图木舒克市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-北屯",
+    "name": "北屯",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["北屯（十师）", "北屯市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-铁门关",
+    "name": "铁门关",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["铁门关（二师）", "铁门关市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-双河",
+    "name": "双河",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["双河（五师）", "双河市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-可克达拉",
+    "name": "可克达拉",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["可克达拉（四师）", "可克达拉市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-昆玉",
+    "name": "昆玉",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["昆玉（十四师）", "昆玉市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-喀什",
+    "name": "喀什",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["喀什市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-阿克苏",
+    "name": "阿克苏",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["阿克苏市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-和田",
+    "name": "和田",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["和田市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-阿图什",
+    "name": "阿图什",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["阿图什市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-博乐",
+    "name": "博乐",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["博乐市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-昌吉",
+    "name": "昌吉",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["昌吉市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-阜康",
+    "name": "阜康",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["阜康市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-库尔勒",
+    "name": "库尔勒",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["库尔勒市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-伊宁",
+    "name": "伊宁",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["伊宁市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-奎屯",
+    "name": "奎屯",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["奎屯市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-塔城",
+    "name": "塔城",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["塔城市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-乌苏",
+    "name": "乌苏",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["乌苏市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-阿勒泰",
+    "name": "阿勒泰",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["阿勒泰市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-阿拉山口",
+    "name": "阿拉山口",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["阿拉山口市"]
+  },
+  {
+    "id": "新疆维吾尔自治区-霍尔果斯",
+    "name": "霍尔果斯",
+    "province": "新疆维吾尔自治区",
+    "level": "COUNTY",
+    "aliases": ["霍尔果斯市"]
+  },
+  {
+    "id": "香港特别行政区-香港",
+    "name": "香港",
+    "province": "香港特别行政区",
+    "level": "SPECIAL",
+    "aliases": ["香港特别行政区"]
+  },
+  {
+    "id": "澳门特别行政区-澳门",
+    "name": "澳门",
+    "province": "澳门特别行政区",
+    "level": "SPECIAL",
+    "aliases": ["澳门特别行政区"]
+  }
+]

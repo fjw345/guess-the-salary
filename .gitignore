@@ -1,0 +1,80 @@
+# Dependencies
+node_modules/
+
+# Build output and caches
+dist/
+build/
+.vite/
+.turbo/
+.cache/
+*.tsbuildinfo
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+apps/*/.env
+apps/*/.env.*
+!apps/*/.env.example
+*.local
+
+# Runtime logs and debug output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Test and coverage artifacts
+coverage/
+.nyc_output/
+.vitest/
+playwright-report/
+test-results/
+
+# Local database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+apps/api/prisma/*.db*
+
+# Local browser/tooling artifacts
+.playwright-cli/
+.audit/
+.codex/
+.agents/
+.vercel/
+output/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary/editor swap files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Private certificates and keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+
+# Local Docker overrides
+docker-compose.override.yml

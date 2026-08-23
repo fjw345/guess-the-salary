@@ -1,0 +1,6210 @@
+[
+  {
+    "id": "graduate-010100",
+    "name": "哲学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010101",
+    "name": "马克思主义哲学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010102",
+    "name": "中国哲学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010103",
+    "name": "外国哲学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010104",
+    "name": "逻辑学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010105",
+    "name": "伦理学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010106",
+    "name": "美学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010107",
+    "name": "宗教学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-010108",
+    "name": "科学技术哲学",
+    "category": "哲学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "010108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-015100",
+    "name": "应用伦理",
+    "category": "哲学",
+    "degreeTypes": ["MASTER"],
+    "code": "015100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020100",
+    "name": "理论经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020101",
+    "name": "政治经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020102",
+    "name": "经济思想史",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020103",
+    "name": "经济史",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020104",
+    "name": "西方经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020105",
+    "name": "世界经济",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020106",
+    "name": "人口、资源与环境经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020200",
+    "name": "应用经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020201",
+    "name": "国民经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020202",
+    "name": "区域经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020203",
+    "name": "财政学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020204",
+    "name": "金融学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020205",
+    "name": "产业经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020205",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020206",
+    "name": "国际贸易学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020206",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020207",
+    "name": "劳动经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020207",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020208",
+    "name": "统计学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020208",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020209",
+    "name": "数量经济学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020209",
+    "aliases": []
+  },
+  {
+    "id": "graduate-020210",
+    "name": "国防经济",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "020210",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025100",
+    "name": "金融",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025200",
+    "name": "应用统计",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025300",
+    "name": "税务",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025400",
+    "name": "国际商务",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025500",
+    "name": "保险",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025600",
+    "name": "资产评估",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-025800",
+    "name": "数字经济",
+    "category": "经济学",
+    "degreeTypes": ["MASTER"],
+    "code": "025800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-027000",
+    "name": "统计学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "027000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-027100",
+    "name": "区域国别学",
+    "category": "经济学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "027100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030100",
+    "name": "法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030101",
+    "name": "法学理论",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030102",
+    "name": "法律史",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030103",
+    "name": "宪法学与行政法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030104",
+    "name": "刑法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030105",
+    "name": "民商法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030106",
+    "name": "诉讼法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030107",
+    "name": "经济法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030108",
+    "name": "环境与资源保护法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030109",
+    "name": "国际法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030109",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030110",
+    "name": "军事法学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030110",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030200",
+    "name": "政治学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030201",
+    "name": "政治学理论",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030202",
+    "name": "中外政治制度",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030203",
+    "name": "科学社会主义与国际共产主义运动",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030204",
+    "name": "中共党史",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030206",
+    "name": "国际政治",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030206",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030207",
+    "name": "国际关系",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030207",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030208",
+    "name": "外交学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030208",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030300",
+    "name": "社会学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030301",
+    "name": "社会学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030302",
+    "name": "人口学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030303",
+    "name": "人类学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030303",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030304",
+    "name": "民俗学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030304",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030400",
+    "name": "民族学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030402",
+    "name": "马克思主义民族理论与政策",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030406",
+    "name": "中华民族学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030406",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030407",
+    "name": "人类学与世界民族",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030407",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030500",
+    "name": "马克思主义理论",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030501",
+    "name": "马克思主义基本原理",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030502",
+    "name": "马克思主义发展史",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030503",
+    "name": "马克思主义中国化研究",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030504",
+    "name": "国外马克思主义研究",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030504",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030505",
+    "name": "思想政治教育",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030505",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030506",
+    "name": "中国近现代史基本问题研究",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030506",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030600",
+    "name": "公安学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030700",
+    "name": "中共党史党建学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-030800",
+    "name": "纪检监察学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "030800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035100",
+    "name": "法律",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "035100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035101",
+    "name": "法律（非法学）",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "035101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035102",
+    "name": "法律（法学）",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "035102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035200",
+    "name": "社会工作",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "035200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035300",
+    "name": "警务",
+    "category": "法学",
+    "degreeTypes": ["MASTER"],
+    "code": "035300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035400",
+    "name": "知识产权",
+    "category": "法学",
+    "degreeTypes": ["MASTER"],
+    "code": "035400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-035500",
+    "name": "国际事务",
+    "category": "法学",
+    "degreeTypes": ["MASTER"],
+    "code": "035500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-037000",
+    "name": "国家安全学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "037000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-037100",
+    "name": "区域国别学",
+    "category": "法学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "037100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040100",
+    "name": "教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040101",
+    "name": "教育学原理",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040102",
+    "name": "课程与教学论",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040103",
+    "name": "教育史",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040104",
+    "name": "比较教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040105",
+    "name": "学前教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040106",
+    "name": "高等教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040107",
+    "name": "成人教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040108",
+    "name": "职业技术教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040109",
+    "name": "特殊教育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040109",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040110",
+    "name": "教育技术学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040110",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040111",
+    "name": "教育法学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040111",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040200",
+    "name": "心理学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040201",
+    "name": "基础心理学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040202",
+    "name": "发展与教育心理学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040203",
+    "name": "应用心理学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040300",
+    "name": "体育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040301",
+    "name": "体育人文社会学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040302",
+    "name": "运动人体科学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040303",
+    "name": "体育教育训练学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040303",
+    "aliases": []
+  },
+  {
+    "id": "graduate-040304",
+    "name": "民族传统体育学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "040304",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045100",
+    "name": "教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045101",
+    "name": "教育管理",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045102",
+    "name": "学科教学（思政）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045103",
+    "name": "学科教学（语文）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045104",
+    "name": "学科教学（数学）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045105",
+    "name": "学科教学（物理）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045106",
+    "name": "学科教学（化学）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045107",
+    "name": "学科教学（生物）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045108",
+    "name": "学科教学（英语）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045109",
+    "name": "学科教学（历史）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045109",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045110",
+    "name": "学科教学（地理）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045110",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045111",
+    "name": "学科教学（音乐）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045111",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045112",
+    "name": "学科教学（体育）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045112",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045113",
+    "name": "学科教学（美术）",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045113",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045114",
+    "name": "现代教育技术",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045114",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045115",
+    "name": "小学教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045115",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045116",
+    "name": "心理健康教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045116",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045117",
+    "name": "科学与技术教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045117",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045118",
+    "name": "学前教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045118",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045119",
+    "name": "特殊教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045119",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045120",
+    "name": "职业技术教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045120",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045171",
+    "name": "学校课程与教学",
+    "category": "教育学",
+    "degreeTypes": ["DOCTOR"],
+    "code": "045171",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045172",
+    "name": "学生发展与教育",
+    "category": "教育学",
+    "degreeTypes": ["DOCTOR"],
+    "code": "045172",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045173",
+    "name": "教育领导与管理",
+    "category": "教育学",
+    "degreeTypes": ["DOCTOR"],
+    "code": "045173",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045174",
+    "name": "汉语国际教育",
+    "category": "教育学",
+    "degreeTypes": ["DOCTOR"],
+    "code": "045174",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045200",
+    "name": "体育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045201",
+    "name": "体育教学",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045202",
+    "name": "运动训练",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045203",
+    "name": "竞赛组织",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045204",
+    "name": "社会体育指导",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045300",
+    "name": "国际中文教育",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-045400",
+    "name": "应用心理",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "045400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-047101",
+    "name": "教育经济与管理",
+    "category": "教育学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "047101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050100",
+    "name": "中国语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050101",
+    "name": "文艺学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050102",
+    "name": "语言学及应用语言学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050103",
+    "name": "汉语言文字学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050104",
+    "name": "中国古典文献学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050105",
+    "name": "中国古代文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050106",
+    "name": "中国现当代文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050107",
+    "name": "中国少数民族语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050108",
+    "name": "比较文学与世界文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050200",
+    "name": "外国语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050201",
+    "name": "英语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050202",
+    "name": "俄语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050203",
+    "name": "法语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050204",
+    "name": "德语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050205",
+    "name": "日语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050205",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050206",
+    "name": "印度语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050206",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050207",
+    "name": "西班牙语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050207",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050208",
+    "name": "阿拉伯语语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050208",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050209",
+    "name": "欧洲语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050209",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050210",
+    "name": "亚非语言文学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050210",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050211",
+    "name": "外国语言学及应用语言学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050211",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050300",
+    "name": "新闻传播学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050301",
+    "name": "新闻学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-050302",
+    "name": "传播学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "050302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055100",
+    "name": "翻译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055101",
+    "name": "英语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055102",
+    "name": "英语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055103",
+    "name": "俄语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055104",
+    "name": "俄语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055105",
+    "name": "日语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055106",
+    "name": "日语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055107",
+    "name": "法语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055108",
+    "name": "法语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055109",
+    "name": "德语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055109",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055110",
+    "name": "德语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055110",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055111",
+    "name": "朝鲜语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055111",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055112",
+    "name": "朝鲜语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055112",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055113",
+    "name": "西班牙语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055113",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055114",
+    "name": "西班牙语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055114",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055115",
+    "name": "阿拉伯语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055115",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055116",
+    "name": "阿拉伯语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055116",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055117",
+    "name": "泰语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055117",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055118",
+    "name": "泰语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055118",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055119",
+    "name": "意大利语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055119",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055120",
+    "name": "意大利语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055120",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055121",
+    "name": "越南语笔译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055121",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055122",
+    "name": "越南语口译",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055122",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055200",
+    "name": "新闻与传播",
+    "category": "文学",
+    "degreeTypes": ["MASTER"],
+    "code": "055200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-055300",
+    "name": "出版",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "055300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-057000",
+    "name": "区域国别学",
+    "category": "文学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "057000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-060100",
+    "name": "考古学",
+    "category": "历史学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "060100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-060200",
+    "name": "中国史",
+    "category": "历史学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "060200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-060300",
+    "name": "世界史",
+    "category": "历史学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "060300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-065100",
+    "name": "博物馆",
+    "category": "历史学",
+    "degreeTypes": ["MASTER"],
+    "code": "065100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-067000",
+    "name": "区域国别学",
+    "category": "历史学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "067000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070100",
+    "name": "数学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070101",
+    "name": "基础数学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070102",
+    "name": "计算数学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070103",
+    "name": "概率论与数理统计",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070104",
+    "name": "应用数学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070105",
+    "name": "运筹学与控制论",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070200",
+    "name": "物理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070201",
+    "name": "理论物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070202",
+    "name": "粒子物理与原子核物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070203",
+    "name": "原子与分子物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070204",
+    "name": "等离子体物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070205",
+    "name": "凝聚态物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070205",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070206",
+    "name": "声学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070206",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070207",
+    "name": "光学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070207",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070208",
+    "name": "无线电物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070208",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070300",
+    "name": "化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070301",
+    "name": "无机化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070302",
+    "name": "分析化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070303",
+    "name": "有机化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070303",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070304",
+    "name": "物理化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070304",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070305",
+    "name": "高分子化学与物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070305",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070400",
+    "name": "天文学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070401",
+    "name": "天体物理",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070402",
+    "name": "天体测量与天体力学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070500",
+    "name": "地理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070501",
+    "name": "自然地理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070502",
+    "name": "人文地理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070503",
+    "name": "地图学与地理信息系统",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070600",
+    "name": "大气科学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070601",
+    "name": "气象学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070602",
+    "name": "大气物理学与大气环境",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070700",
+    "name": "海洋科学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070701",
+    "name": "物理海洋学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070702",
+    "name": "海洋化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070703",
+    "name": "海洋生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070704",
+    "name": "海洋地质",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070800",
+    "name": "地球物理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070801",
+    "name": "固体地球物理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070802",
+    "name": "空间物理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070900",
+    "name": "地质学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070901",
+    "name": "矿物学、岩石学、矿床学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070901",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070902",
+    "name": "地球化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070902",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070903",
+    "name": "古生物学与地层学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070903",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070904",
+    "name": "构造地质学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070904",
+    "aliases": []
+  },
+  {
+    "id": "graduate-070905",
+    "name": "第四纪地质学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "070905",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071000",
+    "name": "生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071001",
+    "name": "植物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071001",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071002",
+    "name": "动物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071002",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071003",
+    "name": "生理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071003",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071004",
+    "name": "水生生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071004",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071005",
+    "name": "微生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071005",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071006",
+    "name": "神经生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071006",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071007",
+    "name": "遗传学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071007",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071008",
+    "name": "发育生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071008",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071009",
+    "name": "细胞生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071009",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071010",
+    "name": "生物化学与分子生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071010",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071011",
+    "name": "生物物理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071011",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071100",
+    "name": "系统科学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071101",
+    "name": "系统理论",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071102",
+    "name": "系统分析与集成",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071200",
+    "name": "科学技术史",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071300",
+    "name": "生态学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-071400",
+    "name": "统计学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "071400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-075100",
+    "name": "气象",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "075100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077000",
+    "name": "集成电路科学与工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077100",
+    "name": "心理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077101",
+    "name": "基础心理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077102",
+    "name": "发展与教育心理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077103",
+    "name": "应用心理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077200",
+    "name": "力学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077201",
+    "name": "一般力学与力学基础",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077202",
+    "name": "固体力学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077203",
+    "name": "流体力学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077204",
+    "name": "工程力学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077300",
+    "name": "材料科学与工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077301",
+    "name": "材料物理与化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077302",
+    "name": "材料学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077303",
+    "name": "材料加工工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077303",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077400",
+    "name": "电子科学与技术",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077401",
+    "name": "物理电子学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077402",
+    "name": "电路与系统",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077403",
+    "name": "微电子学与固体电子学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077404",
+    "name": "电磁场与微波技术",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077404",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077500",
+    "name": "计算机科学与技术",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077501",
+    "name": "计算机系统结构",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077502",
+    "name": "计算机软件与理论",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077503",
+    "name": "计算机应用技术",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077600",
+    "name": "环境科学与工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077601",
+    "name": "环境科学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077602",
+    "name": "环境工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077700",
+    "name": "生物医学工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077800",
+    "name": "基础医学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077801",
+    "name": "人体解剖与组织胚胎学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077802",
+    "name": "免疫学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077803",
+    "name": "病原生物学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077803",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077804",
+    "name": "病理学与病理生理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077804",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077805",
+    "name": "法医学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077805",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077806",
+    "name": "放射医学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077806",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077900",
+    "name": "公共卫生与预防医学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077901",
+    "name": "流行病与卫生统计学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077901",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077902",
+    "name": "劳动卫生与环境卫生学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077902",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077903",
+    "name": "营养与食品卫生学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077903",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077904",
+    "name": "儿少卫生与妇幼保健学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077904",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077905",
+    "name": "卫生毒理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077905",
+    "aliases": []
+  },
+  {
+    "id": "graduate-077906",
+    "name": "军事预防医学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "077906",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078000",
+    "name": "药学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078001",
+    "name": "药物化学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078001",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078002",
+    "name": "药剂学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078002",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078003",
+    "name": "生药学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078003",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078004",
+    "name": "药物分析学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078004",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078005",
+    "name": "微生物与生化药学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078005",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078006",
+    "name": "药理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078006",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078100",
+    "name": "中药学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078300",
+    "name": "护理学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078401",
+    "name": "教育技术学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078501",
+    "name": "运动人体科学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078601",
+    "name": "农药学",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078700",
+    "name": "遥感科学与技术",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078800",
+    "name": "智能科学与技术",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-078900",
+    "name": "纳米科学与工程",
+    "category": "理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "078900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080100",
+    "name": "力学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080101",
+    "name": "一般力学与力学基础",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080102",
+    "name": "固体力学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080103",
+    "name": "流体力学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080104",
+    "name": "工程力学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080200",
+    "name": "机械工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080201",
+    "name": "机械制造及其自动化",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080202",
+    "name": "机械电子工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080203",
+    "name": "机械设计及理论",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080204",
+    "name": "车辆工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080300",
+    "name": "光学工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080400",
+    "name": "仪器科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080401",
+    "name": "精密仪器及机械",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080402",
+    "name": "测试计量技术及仪器",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080500",
+    "name": "材料科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080501",
+    "name": "材料物理与化学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080502",
+    "name": "材料学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080503",
+    "name": "材料加工工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080600",
+    "name": "冶金工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080601",
+    "name": "冶金物理化学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080602",
+    "name": "钢铁冶金",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080603",
+    "name": "有色金属冶金",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080603",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080700",
+    "name": "动力工程及工程热物理",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080701",
+    "name": "工程热物理",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080702",
+    "name": "热能工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080703",
+    "name": "动力机械及工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080704",
+    "name": "流体机械及工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080705",
+    "name": "制冷及低温工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080705",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080706",
+    "name": "化工过程机械",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080706",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080800",
+    "name": "电气工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080801",
+    "name": "电机与电器",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080802",
+    "name": "电力系统及其自动化",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080803",
+    "name": "高电压与绝缘技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080803",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080804",
+    "name": "电力电子与电力传动",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080804",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080805",
+    "name": "电工理论与新技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080805",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080900",
+    "name": "电子科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080901",
+    "name": "物理电子学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080901",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080902",
+    "name": "电路与系统",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080902",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080903",
+    "name": "微电子学与固体电子学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080903",
+    "aliases": []
+  },
+  {
+    "id": "graduate-080904",
+    "name": "电磁场与微波技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "080904",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081000",
+    "name": "信息与通信工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081001",
+    "name": "通信与信息系统",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081001",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081002",
+    "name": "信号与信息处理",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081002",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081100",
+    "name": "控制科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081101",
+    "name": "控制理论与控制工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081102",
+    "name": "检测技术与自动化装置",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081103",
+    "name": "系统工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081104",
+    "name": "模式识别与智能系统",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081105",
+    "name": "导航、制导与控制",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081200",
+    "name": "计算机科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081201",
+    "name": "计算机系统结构",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081202",
+    "name": "计算机软件与理论",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081203",
+    "name": "计算机应用技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081300",
+    "name": "建筑学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081301",
+    "name": "建筑历史与理论",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081302",
+    "name": "建筑设计及其理论",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081304",
+    "name": "建筑技术科学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081304",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081400",
+    "name": "土木工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081401",
+    "name": "岩土工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081402",
+    "name": "结构工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081403",
+    "name": "市政工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081404",
+    "name": "供热、供燃气、通风及空调工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081404",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081405",
+    "name": "防灾减灾工程及防护工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081405",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081406",
+    "name": "桥梁与隧道工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081406",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081500",
+    "name": "水利工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081501",
+    "name": "水文学及水资源",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081502",
+    "name": "水力学及河流动力学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081503",
+    "name": "水工结构工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081504",
+    "name": "水利水电工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081504",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081505",
+    "name": "港口、海岸及近海工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081505",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081600",
+    "name": "测绘科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081601",
+    "name": "大地测量学与测量工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081602",
+    "name": "摄影测量与遥感",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081603",
+    "name": "地图制图学与地理信息工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081603",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081700",
+    "name": "化学工程与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081701",
+    "name": "化学工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081702",
+    "name": "化学工艺",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081703",
+    "name": "生物化工",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081704",
+    "name": "应用化学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081705",
+    "name": "工业催化",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081705",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081800",
+    "name": "地质资源与地质工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081801",
+    "name": "矿产普查与勘探",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081802",
+    "name": "地球探测与信息技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081803",
+    "name": "地质工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081803",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081900",
+    "name": "矿业工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081901",
+    "name": "采矿工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081901",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081902",
+    "name": "矿物加工工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081902",
+    "aliases": []
+  },
+  {
+    "id": "graduate-081903",
+    "name": "安全技术及工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "081903",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082000",
+    "name": "石油与天然气工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082001",
+    "name": "油气井工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082001",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082002",
+    "name": "油气田开发工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082002",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082003",
+    "name": "油气储运工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082003",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082100",
+    "name": "纺织科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082101",
+    "name": "纺织工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082102",
+    "name": "纺织材料与纺织品设计",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082103",
+    "name": "纺织化学与染整工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082104",
+    "name": "服装设计与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082200",
+    "name": "轻工技术与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082201",
+    "name": "制浆造纸工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082202",
+    "name": "制糖工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082203",
+    "name": "发酵工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082204",
+    "name": "皮革化学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082300",
+    "name": "交通运输工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082301",
+    "name": "道路与铁道工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082302",
+    "name": "交通信息工程及控制",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082303",
+    "name": "交通运输规划与管理",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082303",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082304",
+    "name": "载运工具运用工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082304",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082400",
+    "name": "船舶与海洋工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082401",
+    "name": "船舶与海洋结构物设计制造",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082402",
+    "name": "轮机工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082403",
+    "name": "水声工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082500",
+    "name": "航空宇航科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082501",
+    "name": "飞行器设计",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082502",
+    "name": "航空宇航推进理论与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082503",
+    "name": "航空宇航制造工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082504",
+    "name": "人机与环境工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082504",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082600",
+    "name": "兵器科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082601",
+    "name": "武器系统与运用工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082602",
+    "name": "兵器发射理论与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082603",
+    "name": "火炮、自动武器与弹药工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082603",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082604",
+    "name": "军事化学与烟火技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082604",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082700",
+    "name": "核科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082701",
+    "name": "核能科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082702",
+    "name": "核燃料循环与材料",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082703",
+    "name": "核技术及应用",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082704",
+    "name": "辐射防护及环境保护",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082800",
+    "name": "农业工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082801",
+    "name": "农业机械化工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082802",
+    "name": "农业水土工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082803",
+    "name": "农业生物环境与能源工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082803",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082804",
+    "name": "农业电气化与自动化",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082804",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082900",
+    "name": "林业工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082901",
+    "name": "森林工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082901",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082902",
+    "name": "木材科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082902",
+    "aliases": []
+  },
+  {
+    "id": "graduate-082903",
+    "name": "林产化学加工工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "082903",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083000",
+    "name": "环境科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083001",
+    "name": "环境科学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083001",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083002",
+    "name": "环境工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083002",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083100",
+    "name": "生物医学工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083200",
+    "name": "食品科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083201",
+    "name": "食品科学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083202",
+    "name": "粮食、油脂及植物蛋白工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083203",
+    "name": "农产品加工及贮藏工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083204",
+    "name": "水产品加工及贮藏工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083300",
+    "name": "城乡规划学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083500",
+    "name": "软件工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083600",
+    "name": "生物工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083700",
+    "name": "安全科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083800",
+    "name": "公安技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-083900",
+    "name": "网络空间安全",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "083900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085100",
+    "name": "建筑",
+    "category": "工学",
+    "degreeTypes": ["MASTER"],
+    "code": "085100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085300",
+    "name": "城乡规划",
+    "category": "工学",
+    "degreeTypes": ["MASTER"],
+    "code": "085300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085400",
+    "name": "电子信息",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085401",
+    "name": "新一代电子信息技术（含量子技术等）",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085402",
+    "name": "通信工程（含宽带网络、移动通信等）",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085403",
+    "name": "集成电路工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085404",
+    "name": "计算机技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085404",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085405",
+    "name": "软件工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085405",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085406",
+    "name": "控制工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085406",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085407",
+    "name": "仪器仪表工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085407",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085408",
+    "name": "光电信息工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085408",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085409",
+    "name": "生物医学工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085409",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085410",
+    "name": "人工智能",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085410",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085411",
+    "name": "大数据技术与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085411",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085412",
+    "name": "网络与信息安全",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085412",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085500",
+    "name": "机械",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085501",
+    "name": "机械工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085502",
+    "name": "车辆工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085503",
+    "name": "航空工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085504",
+    "name": "航天工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085504",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085505",
+    "name": "船舶工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085505",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085506",
+    "name": "兵器工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085506",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085507",
+    "name": "工业设计工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085507",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085508",
+    "name": "农机装备工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085508",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085509",
+    "name": "智能制造技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085509",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085510",
+    "name": "机器人工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085510",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085600",
+    "name": "材料与化工",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085601",
+    "name": "材料工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085602",
+    "name": "化学工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085603",
+    "name": "冶金工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085603",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085604",
+    "name": "纺织工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085604",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085605",
+    "name": "林业工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085605",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085606",
+    "name": "轻化工程（含皮革、纸张、织物加工等）",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085606",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085700",
+    "name": "资源与环境",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085701",
+    "name": "环境工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085702",
+    "name": "安全工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085703",
+    "name": "地质工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085704",
+    "name": "测绘工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085705",
+    "name": "矿业工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085705",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085706",
+    "name": "石油与天然气工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085706",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085800",
+    "name": "能源动力",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085801",
+    "name": "电气工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085802",
+    "name": "动力工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085803",
+    "name": "核能工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085803",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085804",
+    "name": "航空发动机工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085804",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085805",
+    "name": "燃气轮机工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085805",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085806",
+    "name": "航天动力工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085806",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085807",
+    "name": "清洁能源技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085807",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085808",
+    "name": "储能技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085808",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085900",
+    "name": "土木水利",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085901",
+    "name": "土木工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085901",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085902",
+    "name": "水利工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085902",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085903",
+    "name": "海洋工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085903",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085904",
+    "name": "农田水土工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085904",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085905",
+    "name": "市政工程（含给排水等）",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085905",
+    "aliases": []
+  },
+  {
+    "id": "graduate-085906",
+    "name": "人工环境工程（含供热、通风及空调等）",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "085906",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086000",
+    "name": "生物与医药",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086001",
+    "name": "生物技术与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086001",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086002",
+    "name": "制药工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086002",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086003",
+    "name": "食品工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086003",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086004",
+    "name": "发酵工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086004",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086100",
+    "name": "交通运输",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086101",
+    "name": "轨道交通运输",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086102",
+    "name": "道路交通运输",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086103",
+    "name": "水路交通运输",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086104",
+    "name": "航空交通运输",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086105",
+    "name": "管道交通运输",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-086200",
+    "name": "风景园林",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "086200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087000",
+    "name": "科学技术史",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087100",
+    "name": "管理科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087200",
+    "name": "设计学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087300",
+    "name": "集成电路科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087400",
+    "name": "国家安全学",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087500",
+    "name": "遥感科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087600",
+    "name": "智能科学与技术",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-087700",
+    "name": "纳米科学与工程",
+    "category": "工学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "087700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090100",
+    "name": "作物学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090101",
+    "name": "作物栽培学与耕作学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090102",
+    "name": "作物遗传育种",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090200",
+    "name": "园艺学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090201",
+    "name": "果树学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090202",
+    "name": "蔬菜学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090203",
+    "name": "茶学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090300",
+    "name": "农业资源与环境",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090301",
+    "name": "土壤学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090302",
+    "name": "植物营养学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090400",
+    "name": "植物保护",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090401",
+    "name": "植物病理学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090402",
+    "name": "农业昆虫与害虫防治",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090403",
+    "name": "农药学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090500",
+    "name": "畜牧学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090501",
+    "name": "动物遗传育种与繁殖",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090502",
+    "name": "动物营养与饲料科学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090504",
+    "name": "特种经济动物饲养",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090504",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090600",
+    "name": "兽医学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090601",
+    "name": "基础兽医学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090602",
+    "name": "预防兽医学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090603",
+    "name": "临床兽医学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090603",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090700",
+    "name": "林学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090701",
+    "name": "林木遗传育种",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090702",
+    "name": "森林培育",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090703",
+    "name": "森林保护学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090704",
+    "name": "森林经理学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090705",
+    "name": "野生动植物保护与利用",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090705",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090706",
+    "name": "园林植物与观赏园艺",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090706",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090707",
+    "name": "水土保持与荒漠化防治",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090707",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090800",
+    "name": "水产",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090801",
+    "name": "水产养殖",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090801",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090802",
+    "name": "捕捞学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090802",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090803",
+    "name": "渔业资源",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090803",
+    "aliases": []
+  },
+  {
+    "id": "graduate-090900",
+    "name": "草学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "090900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-091000",
+    "name": "水土保持与荒漠化防治学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "091000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095100",
+    "name": "农业",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095131",
+    "name": "农艺与种业",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095131",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095132",
+    "name": "资源利用与植物保护",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095132",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095133",
+    "name": "畜牧",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095133",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095134",
+    "name": "渔业发展",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095134",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095135",
+    "name": "食品加工与安全",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095135",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095136",
+    "name": "农业工程与信息技术",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095136",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095137",
+    "name": "农业管理",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095137",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095138",
+    "name": "农村发展",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095138",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095200",
+    "name": "兽医",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095400",
+    "name": "林业",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "095400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-095500",
+    "name": "食品与营养",
+    "category": "农学",
+    "degreeTypes": ["MASTER"],
+    "code": "095500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097000",
+    "name": "科学技术史",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097100",
+    "name": "环境科学与工程",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097101",
+    "name": "环境科学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097102",
+    "name": "环境工程",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097200",
+    "name": "食品科学与工程",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097201",
+    "name": "食品科学",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097202",
+    "name": "粮食、油脂及植物蛋白工程",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097203",
+    "name": "农产品加工及贮藏工程",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-097204",
+    "name": "水产品加工及贮藏工程",
+    "category": "农学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "097204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100100",
+    "name": "基础医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100101",
+    "name": "人体解剖与组织胚胎学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100102",
+    "name": "免疫学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100103",
+    "name": "病原生物学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100104",
+    "name": "病理学与病理生理学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100105",
+    "name": "法医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100106",
+    "name": "放射医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100200",
+    "name": "临床医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100201",
+    "name": "内科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100202",
+    "name": "儿科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100203",
+    "name": "老年医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100204",
+    "name": "神经病学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100205",
+    "name": "精神病与精神卫生学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100205",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100206",
+    "name": "皮肤病与性病学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100206",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100207",
+    "name": "影像医学与核医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100207",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100208",
+    "name": "临床检验诊断学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100208",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100210",
+    "name": "外科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100210",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100211",
+    "name": "妇产科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100211",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100212",
+    "name": "眼科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100212",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100213",
+    "name": "耳鼻咽喉科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100213",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100214",
+    "name": "肿瘤学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100214",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100215",
+    "name": "康复医学与理疗学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100215",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100216",
+    "name": "运动医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100216",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100217",
+    "name": "麻醉学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100217",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100218",
+    "name": "急诊医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100218",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100300",
+    "name": "口腔医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100301",
+    "name": "口腔基础医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100302",
+    "name": "口腔临床医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100400",
+    "name": "公共卫生与预防医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100401",
+    "name": "流行病与卫生统计学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100402",
+    "name": "劳动卫生与环境卫生学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100403",
+    "name": "营养与食品卫生学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100404",
+    "name": "儿少卫生与妇幼保健学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100404",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100405",
+    "name": "卫生毒理学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100405",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100406",
+    "name": "军事预防医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100406",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100500",
+    "name": "中医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100501",
+    "name": "中医基础理论",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100502",
+    "name": "中医临床基础",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100503",
+    "name": "中医医史文献",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100504",
+    "name": "方剂学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100504",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100505",
+    "name": "中医诊断学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100505",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100506",
+    "name": "中医内科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100506",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100507",
+    "name": "中医外科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100507",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100508",
+    "name": "中医骨伤科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100508",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100509",
+    "name": "中医妇科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100509",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100510",
+    "name": "中医儿科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100510",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100511",
+    "name": "中医五官科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100511",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100512",
+    "name": "针灸推拿学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100512",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100513",
+    "name": "民族医学（含：藏医学、蒙医学等）",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100513",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100600",
+    "name": "中西医结合",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100601",
+    "name": "中西医结合基础",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100602",
+    "name": "中西医结合临床",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100700",
+    "name": "药学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100701",
+    "name": "药物化学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100702",
+    "name": "药剂学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100703",
+    "name": "生药学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100704",
+    "name": "药物分析学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100705",
+    "name": "微生物与生化药学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100705",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100706",
+    "name": "药理学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100706",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100800",
+    "name": "中药学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-100900",
+    "name": "特种医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "100900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-101100",
+    "name": "护理学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "101100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-101200",
+    "name": "法医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "101200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105100",
+    "name": "临床医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105101",
+    "name": "内科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105101",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105102",
+    "name": "儿科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105102",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105103",
+    "name": "老年医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105103",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105104",
+    "name": "神经病学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105104",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105105",
+    "name": "精神病与精神卫生学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105105",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105106",
+    "name": "皮肤病与性病学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105106",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105107",
+    "name": "急诊医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105107",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105108",
+    "name": "重症医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105108",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105109",
+    "name": "全科医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105109",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105110",
+    "name": "康复医学与理疗学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105110",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105111",
+    "name": "外科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105111",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105112",
+    "name": "儿外科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105112",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105113",
+    "name": "骨科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105113",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105114",
+    "name": "运动医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105114",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105115",
+    "name": "妇产科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105115",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105116",
+    "name": "眼科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105116",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105117",
+    "name": "耳鼻咽喉科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105117",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105118",
+    "name": "麻醉学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105118",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105119",
+    "name": "临床病理",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105119",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105120",
+    "name": "临床检验诊断学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105120",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105121",
+    "name": "肿瘤学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105121",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105122",
+    "name": "放射肿瘤学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105122",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105123",
+    "name": "放射影像学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105123",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105124",
+    "name": "超声医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105124",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105125",
+    "name": "核医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105125",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105126",
+    "name": "医学遗传学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105126",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105200",
+    "name": "口腔医学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105300",
+    "name": "公共卫生",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105400",
+    "name": "护理",
+    "category": "医学",
+    "degreeTypes": ["MASTER"],
+    "code": "105400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105500",
+    "name": "药学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105600",
+    "name": "中药",
+    "category": "医学",
+    "degreeTypes": ["MASTER"],
+    "code": "105600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105700",
+    "name": "中医",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105701",
+    "name": "中医内科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105701",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105702",
+    "name": "中医外科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105702",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105703",
+    "name": "中医骨伤科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105703",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105704",
+    "name": "中医妇科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105704",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105705",
+    "name": "中医儿科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105705",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105706",
+    "name": "中医五官科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105706",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105707",
+    "name": "针灸推拿学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105707",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105708",
+    "name": "民族医学（含：藏医学、蒙医学等）",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105708",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105709",
+    "name": "中西医结合临床",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105709",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105710",
+    "name": "全科医学（中医，不授博士学位）",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105710",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105800",
+    "name": "医学技术",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "105800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-105900",
+    "name": "针灸",
+    "category": "医学",
+    "degreeTypes": ["MASTER"],
+    "code": "105900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-107100",
+    "name": "科学技术史",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "107100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-107200",
+    "name": "生物医学工程",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "107200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-107301",
+    "name": "运动人体科学",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "107301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-107401",
+    "name": "社会医学与卫生事业管理",
+    "category": "医学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "107401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110100",
+    "name": "军事思想与军事历史",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110200",
+    "name": "战略学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110300",
+    "name": "联合作战学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110400",
+    "name": "军兵种作战学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110500",
+    "name": "军队指挥学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110505",
+    "name": "密码学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "110505",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110600",
+    "name": "军队政治工作学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110700",
+    "name": "军事后勤学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110800",
+    "name": "军事装备学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110800",
+    "aliases": []
+  },
+  {
+    "id": "graduate-110900",
+    "name": "军事管理学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "110900",
+    "aliases": []
+  },
+  {
+    "id": "graduate-111000",
+    "name": "军事训练学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "111000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-111100",
+    "name": "军事智能",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "111100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-115200",
+    "name": "联合作战指挥",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "115200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-115300",
+    "name": "军兵种作战指挥",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "115300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-115400",
+    "name": "作战指挥保障",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "115400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-115500",
+    "name": "战时政治工作",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "115500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-115600",
+    "name": "后勤与装备保障",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "115600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-115700",
+    "name": "军事训练与管理",
+    "category": "军事学",
+    "degreeTypes": ["MASTER"],
+    "code": "115700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-117000",
+    "name": "国家安全学",
+    "category": "军事学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "117000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120100",
+    "name": "管理科学与工程",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120200",
+    "name": "工商管理学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120201",
+    "name": "会计学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120201",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120202",
+    "name": "企业管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120202",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120203",
+    "name": "旅游管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120203",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120204",
+    "name": "技术经济及管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120204",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120300",
+    "name": "农林经济管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120301",
+    "name": "农业经济管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120301",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120302",
+    "name": "林业经济管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120302",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120400",
+    "name": "公共管理学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120401",
+    "name": "行政管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120401",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120402",
+    "name": "社会医学与卫生事业管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120402",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120403",
+    "name": "教育经济与管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120403",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120404",
+    "name": "社会保障",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120404",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120405",
+    "name": "土地资源管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120405",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120500",
+    "name": "信息资源管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120501",
+    "name": "图书馆学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120501",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120502",
+    "name": "情报学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120502",
+    "aliases": []
+  },
+  {
+    "id": "graduate-120503",
+    "name": "档案学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "120503",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125100",
+    "name": "工商管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125200",
+    "name": "公共管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125300",
+    "name": "会计",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "125300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125400",
+    "name": "旅游管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125500",
+    "name": "图书情报",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125600",
+    "name": "工程管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125601",
+    "name": "工程管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125601",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125602",
+    "name": "项目管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125602",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125603",
+    "name": "工业工程与管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125603",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125604",
+    "name": "物流工程与管理",
+    "category": "管理学",
+    "degreeTypes": ["MASTER"],
+    "code": "125604",
+    "aliases": []
+  },
+  {
+    "id": "graduate-125700",
+    "name": "审计",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "125700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-127000",
+    "name": "安全科学与工程",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "127000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-127100",
+    "name": "国家安全学",
+    "category": "管理学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "127100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-130100",
+    "name": "艺术学",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "130100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-135200",
+    "name": "音乐",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "135200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-135300",
+    "name": "舞蹈",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "135300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-135400",
+    "name": "戏剧与影视",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "135400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-135500",
+    "name": "戏曲与曲艺",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "135500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-135600",
+    "name": "美术与书法",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "135600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-135700",
+    "name": "设计",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "135700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-137000",
+    "name": "设计学",
+    "category": "艺术学",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "137000",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140100",
+    "name": "集成电路科学与工程",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140200",
+    "name": "国家安全学",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140200",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140300",
+    "name": "设计学",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140300",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140400",
+    "name": "遥感科学与技术",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140400",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140500",
+    "name": "智能科学与技术",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140500",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140600",
+    "name": "纳米科学与工程",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140600",
+    "aliases": []
+  },
+  {
+    "id": "graduate-140700",
+    "name": "区域国别学",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "140700",
+    "aliases": []
+  },
+  {
+    "id": "graduate-145100",
+    "name": "文物",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER", "DOCTOR"],
+    "code": "145100",
+    "aliases": []
+  },
+  {
+    "id": "graduate-145200",
+    "name": "密码",
+    "category": "交叉学科",
+    "degreeTypes": ["MASTER"],
+    "code": "145200",
+    "aliases": []
+  }
+]

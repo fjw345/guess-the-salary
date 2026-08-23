@@ -1,0 +1,39 @@
+{
+  "name": "guess-salary",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "predev": "npm run build -w @guess-salary/shared",
+    "dev": "concurrently -n api,web -c yellow,magenta \"npm run dev -w @guess-salary/api\" \"npm run dev -w @guess-salary/web\"",
+    "build": "npm run build -w @guess-salary/shared && npm run build -w @guess-salary/api && npm run build -w @guess-salary/web",
+    "pretest": "npm run build -w @guess-salary/shared",
+    "test": "npm run test --workspaces --if-present",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "seed:import": "npm run seed -w @guess-salary/api"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/node": "^24.3.0",
+    "concurrently": "^9.2.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.39.1"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "prisma@6.19.3": true,
+    "@prisma/client@6.19.3": true,
+    "@prisma/engines@6.19.3": true
+  }
+}

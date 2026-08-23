@@ -1,0 +1,52 @@
+name: guess-salary
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: guess_salary
+      POSTGRES_USER: guess_salary
+      POSTGRES_PASSWORD: guess_salary
+    ports:
+      - '5432:5432'
+    volumes:
+      - guess_salary_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U guess_salary']
+      interval: 5s
+      timeout: 5s
+      retries: 10
+  api:
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    environment:
+      DATABASE_URL: postgresql://guess_salary:guess_salary@postgres:5432/guess_salary?schema=public
+      DIRECT_URL: postgresql://guess_salary:guess_salary@postgres:5432/guess_salary?schema=public
+      ADMIN_PASSWORD_HASH: ${ADMIN_PASSWORD_HASH}
+      ADMIN_SESSION_SECRET: ${ADMIN_SESSION_SECRET}
+      IP_HASH_SALT: ${IP_HASH_SALT}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost}
+      TRUST_PROXY: ${TRUST_PROXY:-false}
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+      args:
+        VITE_ADMIN_PATH: ${VITE_ADMIN_PATH:-/_review-7k3m2p}
+        VITE_API_BASE_URL: ${VITE_API_BASE_URL:-}
+    environment:
+      DOMAIN: ${DOMAIN:-localhost}
+    ports:
+      - '80:80'
+      - '443:443'
+    depends_on:
+      - api
+    restart: unless-stopped
+
+volumes:
+  guess_salary_pgdata:

@@ -1,0 +1,6522 @@
+[
+  {
+    "id": "bachelor-010101",
+    "name": "哲学",
+    "category": "哲学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "010101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-010102",
+    "name": "逻辑学",
+    "category": "哲学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "010102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-010103k",
+    "name": "宗教学",
+    "category": "哲学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "010103K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-010104t",
+    "name": "伦理学",
+    "category": "哲学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "010104T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020101",
+    "name": "经济学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020102",
+    "name": "经济统计学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020103t",
+    "name": "国民经济管理",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020103T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020104t",
+    "name": "资源与环境经济学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020104T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020105t",
+    "name": "商务经济学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020105T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020106t",
+    "name": "能源经济",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020106T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020107t",
+    "name": "劳动经济学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020107T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020108t",
+    "name": "经济工程",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020108T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020109t",
+    "name": "数字经济",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020109T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020201k",
+    "name": "财政学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020201K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020202",
+    "name": "税收学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020203tk",
+    "name": "国际税收",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020203TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020301k",
+    "name": "金融学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020301K",
+    "aliases": ["金融"]
+  },
+  {
+    "id": "bachelor-020302",
+    "name": "金融工程",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020303",
+    "name": "保险学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020303",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020304",
+    "name": "投资学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020304",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020305t",
+    "name": "金融数学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020305T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020306t",
+    "name": "信用管理",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020306T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020307t",
+    "name": "经济与金融",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020308t",
+    "name": "精算学",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020308T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020309t",
+    "name": "互联网金融",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020309T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020310t",
+    "name": "金融科技",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020310T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020311tk",
+    "name": "金融审计",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020311TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020401",
+    "name": "国际经济与贸易",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020401",
+    "aliases": ["国贸"]
+  },
+  {
+    "id": "bachelor-020402",
+    "name": "贸易经济",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-020403t",
+    "name": "国际经济发展合作",
+    "category": "经济学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "020403T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030101k",
+    "name": "法学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030101K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030102t",
+    "name": "知识产权",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030102T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030103t",
+    "name": "监狱学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030103T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030104t",
+    "name": "信用风险管理与法律防控",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030104T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030105t",
+    "name": "国际经贸规则",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030105T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030106tk",
+    "name": "司法警察学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030106TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030107tk",
+    "name": "社区矫正",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030107TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030108tk",
+    "name": "纪检监察",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030108TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030109tk",
+    "name": "国际法",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030109TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030110tk",
+    "name": "司法鉴定学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030110TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030111tk",
+    "name": "国家安全学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030111TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030112tk",
+    "name": "海外利益安全",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030112TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030201",
+    "name": "政治学与行政学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030202",
+    "name": "国际政治",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030203",
+    "name": "外交学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030204t",
+    "name": "国际事务与国际关系",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030204T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030205t",
+    "name": "政治学、经济学与哲学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030205T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030206tk",
+    "name": "国际组织与全球治理",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030206TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030301",
+    "name": "社会学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030302",
+    "name": "社会工作",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030303t",
+    "name": "人类学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030303T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030304t",
+    "name": "女性学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030304T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030305t",
+    "name": "家政学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030305T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030306t",
+    "name": "老年学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030306T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030307t",
+    "name": "社会政策",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030401",
+    "name": "民族学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030401",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030501",
+    "name": "科学社会主义",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030502",
+    "name": "中国共产党历史",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030502",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030503",
+    "name": "思想政治教育",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030504t",
+    "name": "马克思主义理论",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030504T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030505tk",
+    "name": "工会学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030505TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030601k",
+    "name": "治安学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030601K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030602k",
+    "name": "侦查学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030602K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030603k",
+    "name": "边防管理",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030603K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030604tk",
+    "name": "禁毒学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030604TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030605tk",
+    "name": "警犬技术",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030605TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030606tk",
+    "name": "经济犯罪侦查",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030606TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030607tk",
+    "name": "边防指挥",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030607TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030608tk",
+    "name": "消防指挥",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030608TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030609tk",
+    "name": "警卫学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030609TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030610tk",
+    "name": "公安情报学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030610TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030611tk",
+    "name": "犯罪学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030611TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030612tk",
+    "name": "公安管理学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030612TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030613tk",
+    "name": "涉外警务",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030613TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030614tk",
+    "name": "国内安全保卫",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030614TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030615tk",
+    "name": "警务指挥与战术",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030615TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030616tk",
+    "name": "技术侦查学",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030616TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030617tk",
+    "name": "海警执法",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030617TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030618tk",
+    "name": "公安政治工作",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030618TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030619tk",
+    "name": "移民管理",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030619TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030620tk",
+    "name": "出入境管理",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030620TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030621tk",
+    "name": "反恐警务",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030621TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030622tk",
+    "name": "消防政治工作",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030622TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-030623tk",
+    "name": "铁路警务",
+    "category": "法学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "030623TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040101",
+    "name": "教育学",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040102",
+    "name": "科学教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040103",
+    "name": "人文教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040104",
+    "name": "教育技术学",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040104",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040105",
+    "name": "艺术教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040105",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040106",
+    "name": "学前教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040106",
+    "aliases": ["幼教"]
+  },
+  {
+    "id": "bachelor-040107",
+    "name": "小学教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040107",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040108",
+    "name": "特殊教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040108",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040109t",
+    "name": "华文教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040109T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040110tk",
+    "name": "教育康复学",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040110TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040111t",
+    "name": "卫生教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040111T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040112t",
+    "name": "认知科学与技术",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040112T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040113t",
+    "name": "融合教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040113T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040114tk",
+    "name": "劳动教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040114TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040115t",
+    "name": "家庭教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040115T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040116tk",
+    "name": "孤独症儿童教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040116TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040201",
+    "name": "体育教育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040202k",
+    "name": "运动训练",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040202K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040203",
+    "name": "社会体育指导与管理",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040204k",
+    "name": "武术与民族传统体育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040204K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040205",
+    "name": "运动人体科学",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040205",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040206t",
+    "name": "运动康复",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040206T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040207t",
+    "name": "休闲体育",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040207T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040208t",
+    "name": "体能训练",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040208T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040209t",
+    "name": "冰雪运动",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040209T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040210tk",
+    "name": "电子竞技运动与管理",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040210TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040211tk",
+    "name": "智能体育工程",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040211TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040212tk",
+    "name": "体育旅游",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040212TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040213t",
+    "name": "运动能力开发",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040213T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040214tk",
+    "name": "足球运动",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040214TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040215tk",
+    "name": "马术运动与管理",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040215TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-040216t",
+    "name": "体育康养",
+    "category": "教育学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "040216T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050101",
+    "name": "汉语言文学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050101",
+    "aliases": ["中文"]
+  },
+  {
+    "id": "bachelor-050102",
+    "name": "汉语言",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050103",
+    "name": "汉语国际教育",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050104",
+    "name": "中国少数民族语言文学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050104",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050105",
+    "name": "古典文献学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050105",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050106t",
+    "name": "应用语言学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050106T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050107t",
+    "name": "秘书学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050107T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050108t",
+    "name": "中国语言与文化",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050108T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050109t",
+    "name": "手语翻译",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050109T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050110t",
+    "name": "数字人文",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050110T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050111t",
+    "name": "中国古典学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050111T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050112t",
+    "name": "汉学与中国学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050112T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050113t",
+    "name": "应用中文",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050113T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050201",
+    "name": "英语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050202",
+    "name": "俄语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050203",
+    "name": "德语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050204",
+    "name": "法语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050204",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050205",
+    "name": "西班牙语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050205",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050206",
+    "name": "阿拉伯语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050206",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050207",
+    "name": "日语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050207",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050208",
+    "name": "波斯语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050208",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050209",
+    "name": "朝鲜语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050209",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050210",
+    "name": "菲律宾语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050210",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050211",
+    "name": "梵语巴利语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050211",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050212",
+    "name": "印度尼西亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050212",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050213",
+    "name": "印地语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050213",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050214",
+    "name": "柬埔寨语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050214",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050215",
+    "name": "老挝语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050215",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050216",
+    "name": "缅甸语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050216",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050217",
+    "name": "马来语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050217",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050218",
+    "name": "蒙古语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050218",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050219",
+    "name": "僧伽罗语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050219",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050220",
+    "name": "泰语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050220",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050221",
+    "name": "乌尔都语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050221",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050222",
+    "name": "希伯来语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050222",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050223",
+    "name": "越南语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050223",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050224",
+    "name": "豪萨语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050224",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050225",
+    "name": "斯瓦希里语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050225",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050226",
+    "name": "阿尔巴尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050226",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050227",
+    "name": "保加利亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050227",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050228",
+    "name": "波兰语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050228",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050229",
+    "name": "捷克语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050229",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050230",
+    "name": "斯洛伐克语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050230",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050231",
+    "name": "罗马尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050231",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050232",
+    "name": "葡萄牙语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050232",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050233",
+    "name": "瑞典语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050233",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050234",
+    "name": "塞尔维亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050234",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050235",
+    "name": "土耳其语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050235",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050236",
+    "name": "希腊语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050236",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050237",
+    "name": "匈牙利语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050237",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050238",
+    "name": "意大利语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050238",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050239",
+    "name": "泰米尔语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050239",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050240",
+    "name": "普什图语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050240",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050241",
+    "name": "世界语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050241",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050242",
+    "name": "孟加拉语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050242",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050243",
+    "name": "尼泊尔语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050243",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050244",
+    "name": "克罗地亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050244",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050245",
+    "name": "荷兰语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050245",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050246",
+    "name": "芬兰语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050246",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050247",
+    "name": "乌克兰语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050247",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050248",
+    "name": "挪威语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050248",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050249",
+    "name": "丹麦语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050249",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050250",
+    "name": "冰岛语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050250",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050251",
+    "name": "爱尔兰语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050251",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050252",
+    "name": "拉脱维亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050252",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050253",
+    "name": "立陶宛语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050253",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050254",
+    "name": "斯洛文尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050254",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050255",
+    "name": "爱沙尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050255",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050256",
+    "name": "马耳他语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050256",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050257",
+    "name": "哈萨克语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050257",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050258",
+    "name": "乌兹别克语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050258",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050259",
+    "name": "祖鲁语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050259",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050260",
+    "name": "拉丁语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050260",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050261",
+    "name": "翻译",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050261",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050262",
+    "name": "商务英语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050262",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050263t",
+    "name": "阿姆哈拉语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050263T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050264t",
+    "name": "吉尔吉斯语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050264T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050265t",
+    "name": "索马里语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050265T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050266t",
+    "name": "土库曼语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050266T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050267t",
+    "name": "加泰罗尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050267T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050268t",
+    "name": "约鲁巴语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050268T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050269t",
+    "name": "亚美尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050269T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050270t",
+    "name": "马达加斯加语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050270T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050271t",
+    "name": "格鲁吉亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050271T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050272t",
+    "name": "阿塞拜疆语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050272T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050273t",
+    "name": "阿非利卡语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050273T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050274t",
+    "name": "马其顿语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050274T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050275t",
+    "name": "塔吉克语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050275T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050276t",
+    "name": "茨瓦纳语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050276T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050277t",
+    "name": "恩德贝莱语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050277T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050278t",
+    "name": "科摩罗语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050278T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050279t",
+    "name": "克里奥尔语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050279T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050280t",
+    "name": "绍纳语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050280T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050281t",
+    "name": "提格雷尼亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050281T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050282t",
+    "name": "白俄罗斯语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050282T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050283t",
+    "name": "毛利语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050283T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050284t",
+    "name": "汤加语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050284T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050285t",
+    "name": "萨摩亚语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050285T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050286t",
+    "name": "库尔德语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050286T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050287t",
+    "name": "比斯拉马语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050287T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050288t",
+    "name": "达里语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050288T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050289t",
+    "name": "德顿语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050289T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050290t",
+    "name": "迪维希语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050290T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050291t",
+    "name": "斐济语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050291T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050292t",
+    "name": "库克群岛毛利语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050292T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050293t",
+    "name": "隆迪语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050293T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050294t",
+    "name": "卢森堡语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050294T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050295t",
+    "name": "卢旺达语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050295T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050296t",
+    "name": "纽埃语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050296T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050297t",
+    "name": "皮金语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050297T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050298t",
+    "name": "切瓦语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050298T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050299t",
+    "name": "塞苏陀语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050299T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050200t",
+    "name": "桑戈语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050200T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-0502100t",
+    "name": "语言学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "0502100T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-0502101t",
+    "name": "塔玛齐格特语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "0502101T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-0502102t",
+    "name": "爪哇语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "0502102T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-0502103t",
+    "name": "旁遮普语",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "0502103T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050301",
+    "name": "新闻学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050302",
+    "name": "广播电视学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050303",
+    "name": "广告学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050303",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050304",
+    "name": "传播学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050304",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050305",
+    "name": "编辑出版学",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050305",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050306t",
+    "name": "网络与新媒体",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050306T",
+    "aliases": ["新媒体"]
+  },
+  {
+    "id": "bachelor-050307t",
+    "name": "数字出版",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050308t",
+    "name": "时尚传播",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050308T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050309t",
+    "name": "国际新闻与传播",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050309T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-050310t",
+    "name": "会展",
+    "category": "文学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "050310T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060101",
+    "name": "历史学",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060102",
+    "name": "世界史",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060103",
+    "name": "考古学",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060104",
+    "name": "文物与博物馆学",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060104",
+    "aliases": ["文博"]
+  },
+  {
+    "id": "bachelor-060105t",
+    "name": "文物保护技术",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060105T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060106t",
+    "name": "外国语言与外国历史",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060106T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060107t",
+    "name": "文化遗产",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060107T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060108t",
+    "name": "古文字学",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060108T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-060109t",
+    "name": "科学史",
+    "category": "历史学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "060109T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070101",
+    "name": "数学与应用数学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070101",
+    "aliases": ["数学"]
+  },
+  {
+    "id": "bachelor-070102",
+    "name": "信息与计算科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070103t",
+    "name": "数理基础科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070103T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070104t",
+    "name": "数据计算及应用",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070104T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070201",
+    "name": "物理学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070202",
+    "name": "应用物理学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070203",
+    "name": "核物理",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070204t",
+    "name": "声学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070204T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070205t",
+    "name": "系统科学与工程",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070205T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070206t",
+    "name": "量子信息科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070206T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070301",
+    "name": "化学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070302",
+    "name": "应用化学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070303t",
+    "name": "化学生物学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070303T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070304t",
+    "name": "分子科学与工程",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070304T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070305t",
+    "name": "能源化学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070305T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070306t",
+    "name": "化学测量学与技术",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070306T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070307t",
+    "name": "资源化学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070401",
+    "name": "天文学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070401",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070501",
+    "name": "地理科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070502",
+    "name": "自然地理与资源环境",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070502",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070503",
+    "name": "人文地理与城乡规划",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070504",
+    "name": "地理信息科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070504",
+    "aliases": ["GIS"]
+  },
+  {
+    "id": "bachelor-070601",
+    "name": "大气科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070601",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070602",
+    "name": "应用气象学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070602",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070603t",
+    "name": "气象技术与工程",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070603T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070604t",
+    "name": "地球系统科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070604T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070701",
+    "name": "海洋科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070701",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070702",
+    "name": "海洋技术",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070702",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070703t",
+    "name": "海洋资源与环境",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070703T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070704t",
+    "name": "军事海洋学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070704T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070801",
+    "name": "地球物理学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070801",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070802",
+    "name": "空间科学与技术",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070802",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070803t",
+    "name": "防灾减灾科学与工程",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070803T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070804tk",
+    "name": "行星科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070804TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070901",
+    "name": "地质学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070901",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070902",
+    "name": "地球化学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070902",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070903t",
+    "name": "地球信息科学与技术",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070903T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-070904t",
+    "name": "古生物学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "070904T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071001",
+    "name": "生物科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071001",
+    "aliases": ["生物"]
+  },
+  {
+    "id": "bachelor-071002",
+    "name": "生物技术",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071002",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071003",
+    "name": "生物信息学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071003",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071004",
+    "name": "生态学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071004",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071005t",
+    "name": "整合科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071005T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071006t",
+    "name": "神经科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071006T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071101",
+    "name": "心理学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071102",
+    "name": "应用心理学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071201",
+    "name": "统计学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071202",
+    "name": "应用统计学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071203t",
+    "name": "数据科学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071203T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-071204t",
+    "name": "生物统计学",
+    "category": "理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "071204T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080101",
+    "name": "理论与应用力学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080102",
+    "name": "工程力学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080201",
+    "name": "机械工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080202",
+    "name": "机械设计制造及其自动化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080202",
+    "aliases": ["机械"]
+  },
+  {
+    "id": "bachelor-080203",
+    "name": "材料成型及控制工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080204",
+    "name": "机械电子工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080204",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080205",
+    "name": "工业设计",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080205",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080206",
+    "name": "过程装备与控制工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080206",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080207",
+    "name": "车辆工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080207",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080208",
+    "name": "汽车服务工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080208",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080209t",
+    "name": "机械工艺技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080209T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080210t",
+    "name": "微机电系统工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080210T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080211t",
+    "name": "机电技术教育",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080211T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080212t",
+    "name": "汽车维修工程教育",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080212T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080213t",
+    "name": "智能制造工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080213T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080214t",
+    "name": "智能车辆工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080214T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080215t",
+    "name": "仿生科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080215T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080216t",
+    "name": "新能源汽车工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080216T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080217t",
+    "name": "增材制造工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080217T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080218t",
+    "name": "智能交互设计",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080218T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080219t",
+    "name": "应急装备技术与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080219T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080220t",
+    "name": "农林智能装备工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080220T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080301",
+    "name": "测控技术与仪器",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080302t",
+    "name": "精密仪器",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080302T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080303t",
+    "name": "智能感知工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080303T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080401",
+    "name": "材料科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080401",
+    "aliases": ["材料"]
+  },
+  {
+    "id": "bachelor-080402",
+    "name": "材料物理",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080403",
+    "name": "材料化学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080403",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080404",
+    "name": "冶金工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080404",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080405",
+    "name": "金属材料工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080405",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080406",
+    "name": "无机非金属材料工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080406",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080407",
+    "name": "高分子材料与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080407",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080408",
+    "name": "复合材料与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080408",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080409t",
+    "name": "粉体材料科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080409T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080410t",
+    "name": "宝石及材料工艺学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080410T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080411t",
+    "name": "焊接技术与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080411T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080412t",
+    "name": "功能材料",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080412T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080413t",
+    "name": "纳米材料与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080413T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080414t",
+    "name": "新能源材料与器件",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080414T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080415t",
+    "name": "材料设计科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080415T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080416t",
+    "name": "复合材料成型工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080416T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080417t",
+    "name": "智能材料与结构",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080417T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080418t",
+    "name": "光电信息材料与器件",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080418T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080419t",
+    "name": "生物材料",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080419T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080420t",
+    "name": "材料智能技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080420T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080421t",
+    "name": "电子信息材料",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080421T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080422t",
+    "name": "软物质科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080422T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080423t",
+    "name": "稀土材料科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080423T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080501",
+    "name": "能源与动力工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080501",
+    "aliases": ["热动"]
+  },
+  {
+    "id": "bachelor-080502t",
+    "name": "能源与环境系统工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080502T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080503t",
+    "name": "新能源科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080503T",
+    "aliases": ["新能源"]
+  },
+  {
+    "id": "bachelor-080504t",
+    "name": "储能科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080504T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080505t",
+    "name": "能源服务工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080505T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080506tk",
+    "name": "氢能科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080506TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080507tk",
+    "name": "可持续能源",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080507TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080601",
+    "name": "电气工程及其自动化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080601",
+    "aliases": ["电气"]
+  },
+  {
+    "id": "bachelor-080602t",
+    "name": "智能电网信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080602T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080603t",
+    "name": "光源与照明",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080603T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080604t",
+    "name": "电气工程与智能控制",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080604T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080605t",
+    "name": "电机电器智能化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080605T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080606t",
+    "name": "电缆工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080606T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080607t",
+    "name": "能源互联网工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080607T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080608tk",
+    "name": "智慧能源工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080608TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080609t",
+    "name": "电动载运工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080609T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080610tk",
+    "name": "大功率半导体科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080610TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080701",
+    "name": "电子信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080701",
+    "aliases": ["电子信息"]
+  },
+  {
+    "id": "bachelor-080702",
+    "name": "电子科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080702",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080703",
+    "name": "通信工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080703",
+    "aliases": ["通信"]
+  },
+  {
+    "id": "bachelor-080704",
+    "name": "微电子科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080704",
+    "aliases": ["微电子"]
+  },
+  {
+    "id": "bachelor-080705",
+    "name": "光电信息科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080705",
+    "aliases": ["光电"]
+  },
+  {
+    "id": "bachelor-080706",
+    "name": "信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080706",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080707t",
+    "name": "广播电视工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080707T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080708t",
+    "name": "水声工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080708T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080709t",
+    "name": "电子封装技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080709T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080710t",
+    "name": "集成电路设计与集成系统",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080710T",
+    "aliases": ["集成电路"]
+  },
+  {
+    "id": "bachelor-080711t",
+    "name": "医学信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080711T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080712t",
+    "name": "电磁场与无线技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080712T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080713t",
+    "name": "电波传播与天线",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080713T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080714t",
+    "name": "电子信息科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080714T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080715t",
+    "name": "电信工程及管理",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080715T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080716t",
+    "name": "应用电子技术教育",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080716T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080717t",
+    "name": "人工智能",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080717T",
+    "aliases": ["AI"]
+  },
+  {
+    "id": "bachelor-080718t",
+    "name": "海洋信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080718T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080719t",
+    "name": "柔性电子学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080719T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080720t",
+    "name": "智能测控工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080720T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080721t",
+    "name": "智能视觉工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080721T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080801",
+    "name": "自动化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080801",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080802t",
+    "name": "轨道交通信号与控制",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080802T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080803t",
+    "name": "机器人工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080803T",
+    "aliases": ["机器人"]
+  },
+  {
+    "id": "bachelor-080804t",
+    "name": "邮政工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080804T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080805t",
+    "name": "核电技术与控制工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080805T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080806t",
+    "name": "智能装备与系统",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080806T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080807t",
+    "name": "工业智能",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080807T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080808t",
+    "name": "智能工程与创意设计",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080808T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080901",
+    "name": "计算机科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080901",
+    "aliases": ["计算机", "计科"]
+  },
+  {
+    "id": "bachelor-080902",
+    "name": "软件工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080902",
+    "aliases": ["软件"]
+  },
+  {
+    "id": "bachelor-080903",
+    "name": "网络工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080903",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080904k",
+    "name": "信息安全",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080904K",
+    "aliases": ["网安"]
+  },
+  {
+    "id": "bachelor-080905",
+    "name": "物联网工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080905",
+    "aliases": ["物联网"]
+  },
+  {
+    "id": "bachelor-080906",
+    "name": "数字媒体技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080906",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080907t",
+    "name": "智能科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080907T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080908t",
+    "name": "空间信息与数字技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080908T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080909t",
+    "name": "电子与计算机工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080909T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080910t",
+    "name": "数据科学与大数据技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080910T",
+    "aliases": ["大数据"]
+  },
+  {
+    "id": "bachelor-080911tk",
+    "name": "网络空间安全",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080911TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080912t",
+    "name": "新媒体技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080912T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080913t",
+    "name": "电影制作",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080913T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080914tk",
+    "name": "保密技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080914TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080915t",
+    "name": "服务科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080915T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080916t",
+    "name": "虚拟现实技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080916T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080917t",
+    "name": "区块链工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080917T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-080918tk",
+    "name": "密码科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "080918TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081001",
+    "name": "土木工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081001",
+    "aliases": ["土木"]
+  },
+  {
+    "id": "bachelor-081002",
+    "name": "建筑环境与能源应用工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081002",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081003",
+    "name": "给排水科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081003",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081004",
+    "name": "建筑电气与智能化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081004",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081005t",
+    "name": "城市地下空间工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081005T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081006t",
+    "name": "道路桥梁与渡河工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081006T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081007t",
+    "name": "铁道工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081007T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081008t",
+    "name": "智能建造",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081008T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081009t",
+    "name": "土木、水利与海洋工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081009T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081010t",
+    "name": "土木、水利与交通工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081010T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081011t",
+    "name": "城市水系统工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081011T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081012t",
+    "name": "智能建造与智慧交通",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081012T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081013t",
+    "name": "工程软件",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081013T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081101",
+    "name": "水利水电工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081101",
+    "aliases": ["水利"]
+  },
+  {
+    "id": "bachelor-081102",
+    "name": "水文与水资源工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081103",
+    "name": "港口航道与海岸工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081104t",
+    "name": "水务工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081104T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081105t",
+    "name": "水利科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081105T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081106t",
+    "name": "智慧水利",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081106T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081201",
+    "name": "测绘工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081201",
+    "aliases": ["测绘"]
+  },
+  {
+    "id": "bachelor-081202",
+    "name": "遥感科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081203t",
+    "name": "导航工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081203T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081204t",
+    "name": "地理国情监测",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081204T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081205t",
+    "name": "地理空间信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081205T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081301",
+    "name": "化学工程与工艺",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081301",
+    "aliases": ["化工"]
+  },
+  {
+    "id": "bachelor-081302",
+    "name": "制药工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081303t",
+    "name": "资源循环科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081303T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081304t",
+    "name": "能源化学工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081304T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081305t",
+    "name": "化学工程与工业生物工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081305T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081306t",
+    "name": "化工安全工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081306T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081307t",
+    "name": "涂料工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081308t",
+    "name": "精细化工",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081308T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081401",
+    "name": "地质工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081401",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081402",
+    "name": "勘查技术与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081403k",
+    "name": "资源勘查工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081403K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081404t",
+    "name": "地下水科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081404T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081405t",
+    "name": "旅游地学与规划工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081405T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081406t",
+    "name": "智能地球探测",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081406T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081407t",
+    "name": "资源环境大数据工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081407T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081501",
+    "name": "采矿工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081502",
+    "name": "石油工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081502",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081503",
+    "name": "矿物加工工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081504",
+    "name": "油气储运工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081504",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081505t",
+    "name": "矿物资源工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081505T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081506t",
+    "name": "海洋油气工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081506T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081507t",
+    "name": "智能采矿工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081507T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081508tk",
+    "name": "碳储科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081508TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081601",
+    "name": "纺织工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081601",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081602",
+    "name": "服装设计与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081602",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081603t",
+    "name": "非织造材料与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081603T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081604t",
+    "name": "服装设计与工艺教育",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081604T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081605t",
+    "name": "丝绸设计与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081605T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081701",
+    "name": "轻化工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081701",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081702",
+    "name": "包装工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081702",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081703",
+    "name": "印刷工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081703",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081704t",
+    "name": "香料香精技术与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081704T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081705t",
+    "name": "化妆品技术与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081705T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081706tk",
+    "name": "生物质能源与材料",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081706TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081801",
+    "name": "交通运输",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081801",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081802",
+    "name": "交通工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081802",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081803k",
+    "name": "航海技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081803K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081804k",
+    "name": "轮机工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081804K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081805k",
+    "name": "飞行技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081805K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081806t",
+    "name": "交通设备与控制工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081806T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081807t",
+    "name": "救助与打捞工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081807T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081808tk",
+    "name": "船舶电子电气工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081808TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081809t",
+    "name": "轨道交通电气与控制",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081809T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081810t",
+    "name": "邮轮工程与管理",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081810T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081811t",
+    "name": "智慧交通",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081811T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081812t",
+    "name": "智能运输工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081812T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081901",
+    "name": "船舶与海洋工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081901",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081902t",
+    "name": "海洋工程与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081902T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081903t",
+    "name": "海洋资源开发技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081903T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081904t",
+    "name": "海洋机器人",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081904T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081905t",
+    "name": "智慧海洋技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081905T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-081906t",
+    "name": "智能海洋装备",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "081906T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082001",
+    "name": "航空航天工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082001",
+    "aliases": ["航空"]
+  },
+  {
+    "id": "bachelor-082002",
+    "name": "飞行器设计与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082002",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082003",
+    "name": "飞行器制造工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082003",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082004",
+    "name": "飞行器动力工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082004",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082005",
+    "name": "飞行器环境与生命保障工 程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082005",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082006t",
+    "name": "飞行器质量与可靠性",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082006T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082007t",
+    "name": "飞行器适航技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082007T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082008t",
+    "name": "飞行器控制与信息工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082008T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082009t",
+    "name": "无人驾驶航空器系统工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082009T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082010t",
+    "name": "智能飞行器技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082010T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082011t",
+    "name": "空天智能电推进技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082011T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082012t",
+    "name": "飞行器运维工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082012T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082101",
+    "name": "武器系统与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082102",
+    "name": "武器发射工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082103",
+    "name": "探测制导与控制技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082104",
+    "name": "弹药工程与爆炸技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082104",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082105",
+    "name": "特种能源技术与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082105",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082106",
+    "name": "装甲车辆工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082106",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082107",
+    "name": "信息对抗技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082107",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082108t",
+    "name": "智能无人系统技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082108T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082201",
+    "name": "核工程与核技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082202",
+    "name": "辐射防护与核安全",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082203",
+    "name": "工程物理",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082204",
+    "name": "核化工与核燃料工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082204",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082301",
+    "name": "农业工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082302",
+    "name": "农业机械化及其自动化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082303",
+    "name": "农业电气化",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082303",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082304",
+    "name": "农业建筑环境与能源工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082304",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082305",
+    "name": "农业水利工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082305",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082306t",
+    "name": "土地整治工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082306T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082307t",
+    "name": "农业智能装备工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082401",
+    "name": "森林工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082401",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082402",
+    "name": "木材科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082403",
+    "name": "林产化工",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082403",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082404t",
+    "name": "家具设计与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082404T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082405t",
+    "name": "木结构建筑与材料",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082405T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082501",
+    "name": "环境科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082502",
+    "name": "环境工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082502",
+    "aliases": ["环保"]
+  },
+  {
+    "id": "bachelor-082503",
+    "name": "环境科学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082504",
+    "name": "环境生态工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082504",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082505t",
+    "name": "环保设备工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082505T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082506t",
+    "name": "资源环境科学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082506T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082507t",
+    "name": "水质科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082507T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082601",
+    "name": "生物医学工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082601",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082602t",
+    "name": "假肢矫形工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082602T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082603t",
+    "name": "临床工程技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082603T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082604t",
+    "name": "康复工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082604T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082605t",
+    "name": "健康科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082605T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082701",
+    "name": "食品科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082701",
+    "aliases": ["食品"]
+  },
+  {
+    "id": "bachelor-082702",
+    "name": "食品质量与安全",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082702",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082703",
+    "name": "粮食工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082703",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082704",
+    "name": "乳品工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082704",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082705",
+    "name": "酿酒工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082705",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082706t",
+    "name": "葡萄与葡萄酒工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082706T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082707t",
+    "name": "食品营养与检验教育",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082707T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082708t",
+    "name": "烹饪与营养教育",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082708T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082709t",
+    "name": "食品安全与检测",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082709T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082710t",
+    "name": "食品营养与健康",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082710T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082711t",
+    "name": "食用菌科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082711T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082712t",
+    "name": "白酒酿造工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082712T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082713t",
+    "name": "咖啡科学与工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082713T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082801",
+    "name": "建筑学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082801",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082802",
+    "name": "城乡规划",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082802",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082803",
+    "name": "风景园林",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082803",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082804t",
+    "name": "历史建筑保护工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082804T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082805t",
+    "name": "人居环境科学与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082805T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082806t",
+    "name": "城市设计",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082806T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082807t",
+    "name": "智慧建筑与建造",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082807T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082901",
+    "name": "安全工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082901",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082902t",
+    "name": "应急技术与管理",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082902T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082903t",
+    "name": "职业卫生工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082903T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-082904t",
+    "name": "安全生产监管",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "082904T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083001",
+    "name": "生物工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083001",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083002t",
+    "name": "生物制药",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083002T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083003t",
+    "name": "合成生物学",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083003T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083101k",
+    "name": "刑事科学技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083101K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083102k",
+    "name": "消防工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083102K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083103tk",
+    "name": "交通管理工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083103TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083104tk",
+    "name": "安全防范工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083104TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083105tk",
+    "name": "公安视听技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083105TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083106tk",
+    "name": "抢险救援指挥与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083106TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083107tk",
+    "name": "火灾勘查",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083107TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083108tk",
+    "name": "网络安全与执法",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083108TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083109tk",
+    "name": "核生化消防",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083109TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083110tk",
+    "name": "海警舰艇指挥与技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083110TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083111tk",
+    "name": "数据警务技术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083111TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083112tk",
+    "name": "食品药品环境犯罪侦查技 术",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083112TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083201tk",
+    "name": "未来机器人",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083201TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-083202tk",
+    "name": "交叉工程",
+    "category": "工学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "083202TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090101",
+    "name": "农学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090102",
+    "name": "园艺",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090102",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090103",
+    "name": "植物保护",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090104",
+    "name": "植物科学与技术",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090104",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090105",
+    "name": "种子科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090105",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090106",
+    "name": "设施农业科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090106",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090107t",
+    "name": "茶学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090107T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090108t",
+    "name": "烟草",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090108T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090109t",
+    "name": "应用生物科学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090109T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090110t",
+    "name": "农艺教育",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090110T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090111t",
+    "name": "园艺教育",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090111T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090112t",
+    "name": "智慧农业",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090112T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090113t",
+    "name": "菌物科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090113T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090114t",
+    "name": "农药化肥",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090114T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090115t",
+    "name": "生物农药科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090115T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090116tk",
+    "name": "生物育种科学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090116TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090117tk",
+    "name": "生物育种技术",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090117TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090201",
+    "name": "农业资源与环境",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090202",
+    "name": "野生动物与自然保护区管 理",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090203",
+    "name": "水土保持与荒漠化防治",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090204t",
+    "name": "生物质科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090204T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090205t",
+    "name": "土地科学与技术",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090205T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090206t",
+    "name": "湿地保护与恢复",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090206T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090207tk",
+    "name": "国家公园建设与管理",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090207TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090208tk",
+    "name": "生态修复学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090208TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090301",
+    "name": "动物科学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090302t",
+    "name": "蚕学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090302T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090303t",
+    "name": "蜂学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090303T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090304t",
+    "name": "经济动物学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090304T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090305t",
+    "name": "马业科学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090305T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090306t",
+    "name": "饲料工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090306T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090307t",
+    "name": "智慧牧业科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090307T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090401",
+    "name": "动物医学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090401",
+    "aliases": ["兽医"]
+  },
+  {
+    "id": "bachelor-090402",
+    "name": "动物药学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090403t",
+    "name": "动植物检疫",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090403T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090404t",
+    "name": "实验动物学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090404T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090405t",
+    "name": "中兽医学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090405T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090406tk",
+    "name": "兽医公共卫生",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090406TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090501",
+    "name": "林学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090502",
+    "name": "园林",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090502",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090503",
+    "name": "森林保护",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090504t",
+    "name": "经济林",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090504T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090505t",
+    "name": "智慧林业",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090505T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090601",
+    "name": "水产养殖学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090601",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090602",
+    "name": "海洋渔业科学与技术",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090602",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090603t",
+    "name": "水族科学与技术",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090603T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090604tk",
+    "name": "水生动物医学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090604TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090701",
+    "name": "草业科学",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090701",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-090702t",
+    "name": "草坪科学与工程",
+    "category": "农学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "090702T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100101k",
+    "name": "基础医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100101K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100102tk",
+    "name": "生物医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100102TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100103t",
+    "name": "生物医学科学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100103T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100201k",
+    "name": "临床医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100201K",
+    "aliases": ["临床"]
+  },
+  {
+    "id": "bachelor-100202tk",
+    "name": "麻醉学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100202TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100203tk",
+    "name": "医学影像学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100203TK",
+    "aliases": ["影像"]
+  },
+  {
+    "id": "bachelor-100204tk",
+    "name": "眼视光医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100204TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100205tk",
+    "name": "精神医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100205TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100206tk",
+    "name": "放射医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100206TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100207tk",
+    "name": "儿科学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100207TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100301k",
+    "name": "口腔医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100301K",
+    "aliases": ["口腔"]
+  },
+  {
+    "id": "bachelor-100401k",
+    "name": "预防医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100401K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100402",
+    "name": "食品卫生与营养学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100403tk",
+    "name": "妇幼保健医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100403TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100404tk",
+    "name": "卫生监督",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100404TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100405tk",
+    "name": "全球健康学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100405TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100406t",
+    "name": "运动与公共健康",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100406T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100501k",
+    "name": "中医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100501K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100502k",
+    "name": "针灸推拿学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100502K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100503k",
+    "name": "藏医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100503K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100504k",
+    "name": "蒙医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100504K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100505k",
+    "name": "维医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100505K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100506k",
+    "name": "壮医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100506K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100507k",
+    "name": "哈医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100507K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100508tk",
+    "name": "傣医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100508TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100509tk",
+    "name": "回医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100509TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100510tk",
+    "name": "中医康复学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100510TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100511tk",
+    "name": "中医养生学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100511TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100512tk",
+    "name": "中医儿科学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100512TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100513tk",
+    "name": "中医骨伤科学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100513TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100601k",
+    "name": "中西医临床医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100601K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100701",
+    "name": "药学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100701",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100702",
+    "name": "药物制剂",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100702",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100703tk",
+    "name": "临床药学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100703TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100704t",
+    "name": "药事管理",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100704T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100705t",
+    "name": "药物分析",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100705T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100706t",
+    "name": "药物化学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100706T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100707t",
+    "name": "海洋药学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100707T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100708t",
+    "name": "化妆品科学与技术",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100708T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100801",
+    "name": "中药学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100801",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100802",
+    "name": "中药资源与开发",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100802",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100803t",
+    "name": "藏药学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100803T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100804t",
+    "name": "蒙药学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100804T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100805t",
+    "name": "中药制药",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100805T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100806t",
+    "name": "中草药栽培与鉴定",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100806T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-100901k",
+    "name": "法医学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "100901K",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101001",
+    "name": "医学检验技术",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101001",
+    "aliases": ["检验"]
+  },
+  {
+    "id": "bachelor-101002",
+    "name": "医学实验技术",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101002",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101003",
+    "name": "医学影像技术",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101003",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101004",
+    "name": "眼视光学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101004",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101005",
+    "name": "康复治疗学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101005",
+    "aliases": ["康复"]
+  },
+  {
+    "id": "bachelor-101006",
+    "name": "口腔医学技术",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101006",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101007",
+    "name": "卫生检验与检疫",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101007",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101008t",
+    "name": "听力与言语康复学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101008T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101009t",
+    "name": "康复物理治疗",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101009T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101010t",
+    "name": "康复作业治疗",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101010T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101011t",
+    "name": "智能医学工程",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101011T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101012t",
+    "name": "生物医药数据科学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101012T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101013t",
+    "name": "智能影像工程",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101013T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101014tk",
+    "name": "医工学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101014TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-101102tk",
+    "name": "助产学",
+    "category": "医学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "101102TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120101",
+    "name": "管理科学",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120102",
+    "name": "信息管理与信息系统",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120102",
+    "aliases": ["信管"]
+  },
+  {
+    "id": "bachelor-120103",
+    "name": "工程管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120103",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120104",
+    "name": "房地产开发与管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120104",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120105",
+    "name": "工程造价",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120105",
+    "aliases": ["造价"]
+  },
+  {
+    "id": "bachelor-120106tk",
+    "name": "保密管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120106TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120107t",
+    "name": "邮政管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120107T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120108t",
+    "name": "大数据管理与应用",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120108T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120109t",
+    "name": "工程审计",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120109T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120110t",
+    "name": "计算金融",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120110T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120111t",
+    "name": "应急管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120111T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120201k",
+    "name": "工商管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120201K",
+    "aliases": ["工商"]
+  },
+  {
+    "id": "bachelor-120202",
+    "name": "市场营销",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120202",
+    "aliases": ["营销"]
+  },
+  {
+    "id": "bachelor-120203k",
+    "name": "会计学",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120203K",
+    "aliases": ["会计"]
+  },
+  {
+    "id": "bachelor-120204",
+    "name": "财务管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120204",
+    "aliases": ["财务"]
+  },
+  {
+    "id": "bachelor-120205",
+    "name": "国际商务",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120205",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120206",
+    "name": "人力资源管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120206",
+    "aliases": ["人力"]
+  },
+  {
+    "id": "bachelor-120207",
+    "name": "审计学",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120207",
+    "aliases": ["审计"]
+  },
+  {
+    "id": "bachelor-120208",
+    "name": "资产评估",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120208",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120209",
+    "name": "物业管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120209",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120210",
+    "name": "文化产业管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120210",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120211t",
+    "name": "劳动关系",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120211T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120212t",
+    "name": "体育经济与管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120212T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120213t",
+    "name": "财务会计教育",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120213T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120214t",
+    "name": "市场营销教育",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120214T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120215t",
+    "name": "零售业管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120215T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120216t",
+    "name": "创业管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120216T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120217tk",
+    "name": "海关稽查",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120217TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120218t",
+    "name": "内部审计",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120218T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120301",
+    "name": "农林经济管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120302",
+    "name": "农村区域发展",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120303tk",
+    "name": "乡村治理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120303TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120401",
+    "name": "公共事业管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120401",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120402",
+    "name": "行政管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120403",
+    "name": "劳动与社会保障",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120403",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120404",
+    "name": "土地资源管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120404",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120405",
+    "name": "城市管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120405",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120406tk",
+    "name": "海关管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120406TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120407t",
+    "name": "交通管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120407T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120408t",
+    "name": "海事管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120408T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120409t",
+    "name": "公共关系学",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120409T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120410t",
+    "name": "健康服务与管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120410T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120411tk",
+    "name": "海警后勤管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120411TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120412t",
+    "name": "医疗产品管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120412T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120413t",
+    "name": "医疗保险",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120413T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120414t",
+    "name": "养老服务管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120414T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120415tk",
+    "name": "海关检验检疫安全",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120415TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120416tk",
+    "name": "海外安全管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120416TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120417t",
+    "name": "自然资源登记与管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120417T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120418t",
+    "name": "慈善管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120418T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120419tk",
+    "name": "航空安防管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120419TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120420tk",
+    "name": "无障碍管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120420TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120501",
+    "name": "图书馆学",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120502",
+    "name": "档案学",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120502",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120503",
+    "name": "信息资源管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120601",
+    "name": "物流管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120601",
+    "aliases": ["物流"]
+  },
+  {
+    "id": "bachelor-120602",
+    "name": "物流工程",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120602",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120603t",
+    "name": "采购管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120603T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120604t",
+    "name": "供应链管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120604T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120701",
+    "name": "工业工程",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120701",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120702t",
+    "name": "标准化工程",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120702T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120703t",
+    "name": "质量管理工程",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120703T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120801",
+    "name": "电子商务",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120801",
+    "aliases": ["电商"]
+  },
+  {
+    "id": "bachelor-120802t",
+    "name": "电子商务及法律",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120802T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120803t",
+    "name": "跨境电子商务",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120803T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120901k",
+    "name": "旅游管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120901K",
+    "aliases": ["旅游"]
+  },
+  {
+    "id": "bachelor-120902",
+    "name": "酒店管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120902",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120903",
+    "name": "会展经济与管理",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120903",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-120904t",
+    "name": "旅游管理与服务教育",
+    "category": "管理学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "120904T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130101",
+    "name": "艺术史论",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130101",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130102t",
+    "name": "艺术管理",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130102T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130103t",
+    "name": "非物质文化遗产保护",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130103T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130201",
+    "name": "音乐表演",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130201",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130202",
+    "name": "音乐学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130202",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130203",
+    "name": "作曲与作曲技术理论",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130203",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130204",
+    "name": "舞蹈表演",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130204",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130205",
+    "name": "舞蹈学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130205",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130206",
+    "name": "舞蹈编导",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130206",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130207t",
+    "name": "舞蹈教育",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130207T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130208tk",
+    "name": "航空服务艺术与管理",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130208TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130209t",
+    "name": "流行音乐",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130209T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130210t",
+    "name": "音乐治疗",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130210T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130211t",
+    "name": "流行舞蹈",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130211T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130212t",
+    "name": "音乐教育",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130212T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130213tk",
+    "name": "冰雪舞蹈表演",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130213TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130301",
+    "name": "表演",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130301",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130302",
+    "name": "戏剧学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130302",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130303",
+    "name": "电影学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130303",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130304",
+    "name": "戏剧影视文学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130304",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130305",
+    "name": "广播电视编导",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130305",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130306",
+    "name": "戏剧影视导演",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130306",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130307",
+    "name": "戏剧影视美术设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130307",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130308",
+    "name": "录音艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130308",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130309",
+    "name": "播音与主持艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130309",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130310",
+    "name": "动画",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130310",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130311t",
+    "name": "影视摄影与制作",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130311T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130312t",
+    "name": "影视技术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130312T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130313t",
+    "name": "戏剧教育",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130313T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130314tk",
+    "name": "曲艺",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130314TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130315tk",
+    "name": "音乐剧",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130315TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130401",
+    "name": "美术学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130401",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130402",
+    "name": "绘画",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130402",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130403",
+    "name": "雕塑",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130403",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130404",
+    "name": "摄影",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130404",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130405t",
+    "name": "书法学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130405T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130406t",
+    "name": "中国画",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130406T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130407tk",
+    "name": "实验艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130407TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130408tk",
+    "name": "跨媒体艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130408TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130409t",
+    "name": "文物保护与修复",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130409T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130410t",
+    "name": "漫画",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130410T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130411t",
+    "name": "纤维艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130411T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130412tk",
+    "name": "科技艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130412TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130413tk",
+    "name": "美术教育",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130413TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130501",
+    "name": "艺术设计学",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130501",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130502",
+    "name": "视觉传达设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130502",
+    "aliases": ["视觉传达"]
+  },
+  {
+    "id": "bachelor-130503",
+    "name": "环境设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130503",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130504",
+    "name": "产品设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130504",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130505",
+    "name": "服装与服饰设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130505",
+    "aliases": ["服装设计"]
+  },
+  {
+    "id": "bachelor-130506",
+    "name": "公共艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130506",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130507",
+    "name": "工艺美术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130507",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130508",
+    "name": "数字媒体艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130508",
+    "aliases": ["数媒"]
+  },
+  {
+    "id": "bachelor-130509t",
+    "name": "艺术与科技",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130509T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130510tk",
+    "name": "陶瓷艺术设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130510TK",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130511t",
+    "name": "新媒体艺术",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130511T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130512t",
+    "name": "包装设计",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130512T",
+    "aliases": []
+  },
+  {
+    "id": "bachelor-130513tk",
+    "name": "珠宝首饰设计与工艺",
+    "category": "艺术学",
+    "degreeTypes": ["BACHELOR"],
+    "code": "130513TK",
+    "aliases": []
+  }
+]

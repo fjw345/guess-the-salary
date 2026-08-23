@@ -1,0 +1,131 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+enum Degree {
+  COLLEGE
+  BACHELOR
+  MASTER
+  DOCTOR
+}
+
+enum SalaryPeriod {
+  MONTHLY
+  ANNUAL
+  UNKNOWN
+}
+
+enum SalaryBasis {
+  PRETAX
+  AFTERTAX
+  UNKNOWN
+}
+
+enum ReviewStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum SourceType {
+  SEED
+  SURVEY
+  SELF_REPORT
+}
+
+enum ReportReason {
+  IDENTITY_LEAK
+  FALSE_INFO
+  OFFENSIVE
+  OTHER
+}
+
+enum ReportStatus {
+  OPEN
+  RESOLVED
+}
+
+model Submission {
+  id             String       @id @default(cuid())
+  degree         Degree
+  schoolId       Int?
+  schoolNameRaw  String
+  hideSchool     Boolean      @default(false)
+  major          String
+  tenureText     String
+  tenureMonths   Int?
+  city           String
+  companyName    String
+  hideCompany    Boolean      @default(false)
+  position       String
+  salaryRaw      String
+  salaryAmount   Int?
+  salaryPeriod   SalaryPeriod
+  salaryBasis    SalaryBasis
+  salaryIsIntern Boolean      @default(false)
+  salaryHasPlus  Boolean      @default(false)
+  roughAnnual    Int?
+  authorNote     String?
+  status         ReviewStatus @default(PENDING)
+  rejectReason   String?
+  sourceType     SourceType
+  submittedAt    DateTime     @default(now())
+  reviewedAt     DateTime?
+  ipHash         String?
+  sourceRow      Int?
+
+  school School?     @relation(fields: [schoolId], references: [id])
+  rounds GameRound[]
+
+  @@index([status, roughAnnual])
+}
+
+model School {
+  id          Int          @id @default(autoincrement())
+  name        String       @unique
+  aliases     String[]
+  tags        String[]
+  submissions Submission[]
+}
+
+model GameRound {
+  id           String        @id @default(cuid())
+  sessionId    String
+  submissionId String
+  guessAmount  Int?
+  guessPeriod  SalaryPeriod?
+  servedAt     DateTime      @default(now())
+  answeredAt   DateTime?
+
+  submission Submission @relation(fields: [submissionId], references: [id])
+
+  @@index([sessionId])
+}
+
+model ContentReport {
+  id         String       @id @default(cuid())
+  roundId    String?
+  reason     ReportReason
+  details    String
+  status     ReportStatus @default(OPEN)
+  ipHash     String?
+  createdAt  DateTime     @default(now())
+  resolvedAt DateTime?
+
+  @@index([status, createdAt])
+}
+
+model CaptchaChallenge {
+  token     String   @id
+  answer    Int
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([expiresAt])
+}

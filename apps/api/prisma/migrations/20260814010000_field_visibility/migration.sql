@@ -1,0 +1,3 @@
+ALTER TABLE "Submission"
+  ADD COLUMN "hideSchool" BOOLEAN NOT NULL DEFAULT false,
+  ADD COLUMN "hideCompany" BOOLEAN NOT NULL DEFAULT false;
