@@ -28,22 +28,44 @@ export class ApiError extends Error {
 const apiBaseUrl = (import.meta.env.VITE_API_BASE_URL?.trim() ?? '').replace(/\/$/, '');
 
 export async function api<T>(path: string, init?: RequestInit): Promise<T> {
-  const response = await fetch(`${apiBaseUrl}${path}`, {
-    ...init,
-    headers: {
-      'Content-Type': 'application/json',
-      ...init?.headers,
-    },
-  });
-  const body = (await response.json().catch(() => ({}))) as T & ApiErrorBody;
-  if (!response.ok) {
-    throw new ApiError(body.message ?? '请求失败，请稍后重试。', response.status, body.code);
+  const controller = new AbortController();
+  const timeoutId = window.setTimeout(() => controller.abort(), 20_000);
+  try {
+    const response = await fetch(`${apiBaseUrl}${path}`, {
+      ...init,
+      signal: init?.signal ?? controller.signal,
+      headers: {
+        'Content-Type': 'application/json',
+        ...init?.headers,
+      },
+    });
+    const body = (await response.json().catch(() => ({}))) as T & ApiErrorBody;
+    if (!response.ok) {
+      throw new ApiError(body.message ?? '请求失败，请稍后重试。', response.status, body.code);
+    }
+    return body;
+  } catch (error) {
+    if (error instanceof DOMException && error.name === 'AbortError') {
+      throw new ApiError('请求超时，请检查网络后重试。', 408, 'REQUEST_TIMEOUT');
+    }
+    throw error;
+  } finally {
+    window.clearTimeout(timeoutId);
   }
-  return body;
 }
 
-export const getNextRound = (sessionId: string) =>
-  api<Round>(`/api/rounds/next?sessionId=${encodeURIComponent(sessionId)}`);
+export const getNextRound = async (sessionId: string) => {
+  const round = await api<Round>(`/api/rounds/next?sessionId=${encodeURIComponent(sessionId)}`);
+  if (
+    !round ||
+    typeof round !== 'object' ||
+    !round.profile ||
+    !Array.isArray(round.profile.schoolTags)
+  ) {
+    throw new ApiError('题目数据异常，请稍后重试。', 502, 'INVALID_ROUND');
+  }
+  return round;
+};
 
 export const answerRound = (id: string, guessAmount: number, guessPeriod: string) =>
   api<RoundResult>(`/api/rounds/${id}/answer`, {
