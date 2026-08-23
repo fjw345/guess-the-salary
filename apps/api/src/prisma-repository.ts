@@ -168,11 +168,13 @@ export class PrismaRepository implements Repository {
       });
     if (!candidates.length) return null;
 
-    const latest = await this.prisma.gameRound.findFirst({
-      where: { sessionId },
-      orderBy: { servedAt: 'desc' },
-      include: { submission: true },
-    });
+    const latest = served.length
+      ? await this.prisma.gameRound.findFirst({
+          where: { sessionId },
+          orderBy: { servedAt: 'desc' },
+          select: { submission: { select: { roughAnnual: true } } },
+        })
+      : null;
     const bucket = (value: number | null) =>
       value === null ? 'unknown' : value < 200_000 ? 'low' : value < 500_000 ? 'mid' : 'high';
     if (latest && candidates.length > 2) {

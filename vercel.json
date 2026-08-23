@@ -3,5 +3,11 @@
   "installCommand": "npm ci",
   "buildCommand": "npm run prisma:generate -w @guess-salary/api && npm run build -w @guess-salary/shared && npm run build -w @guess-salary/web",
   "outputDirectory": "apps/web/dist",
+  "functions": {
+    "api/[...path].ts": {
+      "regions": ["icn1"],
+      "maxDuration": 30
+    }
+  },
   "rewrites": [{ "source": "/((?!api(?:/|$)).*)", "destination": "/index.html" }]
 }

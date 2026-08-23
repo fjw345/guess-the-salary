@@ -66,6 +66,8 @@ VITE_ADMIN_PATH=/_review-随机路径
 
 Vercel Function 是无状态、按请求运行的 Node.js 环境，适合本项目的 CRUD API，但不适合 WebSocket 或长时间后台任务。当前管理员 token 是签名 token，验证码存入 Supabase，重启和多实例不会丢失。
 
+仓库中的 `vercel.json` 将 Function 区域设为 `icn1`（首尔），因为当前 Supabase 项目位于 `ap-northeast-2`。如果在 Vercel 的 Resources 页面仍看到 `IAD1`，说明部署没有使用最新提交，需要重新部署。
+
 部署后先访问 `https://www.example.com/api/health`。该路径会由 Vercel Function 查询 Supabase，并返回数据库健康状态。
 
 `TRUST_PROXY=true` 只应在 API 确实位于 Cloudflare 或平台反向代理后时使用。`CORS_ORIGINS` 填写实际前端 origin，不要使用 `*`。

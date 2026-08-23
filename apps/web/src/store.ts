@@ -46,9 +46,9 @@ export const useGameStore = create<GameStore>((set, get) => ({
   loadRound: async () => {
     set({ loading: true, error: null, result: null });
     try {
-      const round = await getNextRound(get().sessionId);
+      const sessionId = get().sessionId;
+      const [round, stats] = await Promise.all([getNextRound(sessionId), getStats(sessionId)]);
       const period = round.salaryPeriod === 'MONTHLY' ? 'MONTHLY' : 'ANNUAL';
-      const stats = await getStats(get().sessionId);
       set({
         round,
         questionNumber: stats.answeredCount + 1,
