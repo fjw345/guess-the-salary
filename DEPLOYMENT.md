@@ -15,6 +15,7 @@ Cloudflare DNS/WAF
 1. 在 Supabase 创建项目，并在 Connect 中复制两个连接串：
    - Pooler 连接串用于运行时 `DATABASE_URL`，通常是 6543 端口并带 `pgbouncer=true`。
    - Direct 连接串用于 Prisma migration，作为 `DIRECT_URL`。
+   - 如果 Direct 主机在当前网络只提供 IPv6，Prisma migration 可以临时使用可达的 5432 Session Pooler 作为 `DIRECT_URL`；不要把 6543 Transaction Pooler 用作 migration URL。
 2. 在本地生成管理员密码 hash：
 
    ```powershell
