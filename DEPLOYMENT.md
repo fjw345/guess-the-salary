@@ -89,7 +89,8 @@ Vercel Function 是无状态、按请求运行的 Node.js 环境，适合本项�
 ## 持续更新数据库
 
 - 用户投稿、审核结果、举报和游戏局次：通过 API 实时写入 Supabase，不需要重新部署。
-- Excel 种子数据和目录：修改后提交 Git，再手动执行 `npm run seed:import`。
+- Excel 种子数据：修改后运行 `npm run data:update`，脚本会自动校验、连接 Supabase、导入并核对数量。第一次运行只需输入一次 Session Pooler URL，之后由 Windows 当前账户解密本机凭据。用 `npm run data:forget` 可以清除保存的连接。
+- Excel 仍以行号作为种子 ID；只能在末尾追加或原地修改，不能排序、插入、删除既有行。导入不会删除用户投稿或旧种子记录。
 - Prisma schema：提交 migration，使用本地命令或 CI 执行 `prisma migrate deploy`；不要在 Vercel build 中自动修改生产 schema。
 - 生产数据库：开启 Supabase 备份，并定期运行 `scripts/backup-postgres.ps1` 验证可恢复性。
 

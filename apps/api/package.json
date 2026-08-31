@@ -9,6 +9,7 @@
     "start": "node dist/server.js",
     "test": "vitest run",
     "seed": "tsx scripts/import-seed.ts",
+    "seed:check": "tsx scripts/check-seed.ts",
     "admin:hash": "tsx scripts/hash-password.ts",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev"

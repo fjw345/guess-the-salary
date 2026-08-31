@@ -87,7 +87,13 @@ export async function importSeed() {
         },
       });
     }
-    console.log(`学校目录 ${knownSchools.length} 所，成功导入 ${rows.length} 条种子数据。`);
+    const databaseSeedCount = await prisma.submission.count({ where: { sourceType: 'SEED' } });
+    console.log(
+      `学校目录 ${knownSchools.length} 所，本次同步 ${rows.length} 条，数据库现有 ${databaseSeedCount} 条种子数据。`,
+    );
+    if (databaseSeedCount > rows.length) {
+      console.warn('数据库中存在 Excel 已不包含的旧种子记录；导入器不会自动删除这些记录。');
+    }
   } finally {
     await prisma.$disconnect();
   }

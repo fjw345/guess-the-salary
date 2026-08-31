@@ -12,6 +12,7 @@ build/
 # Environment files and local secrets
 .env
 .env.*
+.supabase-database-url.secret
 !.env.example
 apps/*/.env
 apps/*/.env.*

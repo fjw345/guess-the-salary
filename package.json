@@ -16,7 +16,11 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "seed:import": "npm run seed -w @guess-salary/api"
+    "seed:import": "npm run seed -w @guess-salary/api",
+    "predata:check": "npm run build -w @guess-salary/shared",
+    "data:check": "npm run seed:check -w @guess-salary/api",
+    "data:update": "powershell -ExecutionPolicy Bypass -File scripts/update-supabase-seed.ps1",
+    "data:forget": "powershell -ExecutionPolicy Bypass -File scripts/update-supabase-seed.ps1 -ForgetConnection"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

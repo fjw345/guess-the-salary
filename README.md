@@ -4,6 +4,16 @@
 
 `种子数据.xlsx` 是唯一的种子数据源。本地开发、手动导入和 Docker 部署都会直接读取该工作簿；修改后重新导入即可同步原始线索和薪资字段。
 
+更新线上 Supabase 时，在项目根目录运行：
+
+```powershell
+npm run data:update
+```
+
+脚本会先校验 Excel，再显示目标数据库并等待确认，最后执行幂等导入和数量核对。第一次运行需要粘贴一次 Supabase Session Pooler URL；连接串会通过 Windows 当前账户加密保存在本机，并被 Git 忽略。之后无需重复配置环境变量。可用 `npm run data:check` 只检查 Excel，用 `npm run data:forget` 清除本机保存的连接。
+
+现有种子 ID 仍由 Excel 行号生成，因此请在末尾追加新数据，不要排序、插入或删除既有行；修改已有行内容是安全的。数据更新后网站会直接读取 Supabase，不需要重新部署 Vercel。
+
 审核台不出现在公开导航中，路径由 `VITE_ADMIN_PATH` 配置。请在根目录 `.env` 中设置一个只有你知道的路径，例如 `VITE_ADMIN_PATH=/_review-你的随机字符串`，然后重启开发服务或重新构建前端。审核页面仍需要管理员密码，隐藏路径不能替代密码保护。
 
 ## 学校目录
